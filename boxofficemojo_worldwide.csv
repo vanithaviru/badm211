@@ -316,7 +316,7 @@
 315,Django Unchained,426074373,162805434,38.20%,263268939,0.618,2012,"[{'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]"
 316,Beauty and the Beast,424967620,218967620,51.50%,206000000,0.485,1991,"[{'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10402, 'name': 'Music'}]"
 317,Dances with Wolves,424208848,184208848,43.40%,240000000,0.566,1990,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]"
-318,"My People, My Homeland",422390820,-,-,422390820,1,2020,#N/A
+318,"My People, My Homeland",422390820,0,0,422390820,1,2020,#N/A
 319,The Chronicles of Narnia: Prince Caspian,419665568,141621490,33.80%,278044078,0.662,2008,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
 320,Sex and the City,418765519,152647258,36.40%,266118261,0.636,2008,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 321,The Captain,417282021,706572,0.20%,416575449,0.998,2019,#N/A
@@ -400,7 +400,7 @@
 399,Jurassic Park III,368780809,181171875,49.10%,187608934,0.509,2001,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]"
 400,My Big Fat Greek Wedding,368744044,241438208,65.50%,127305836,0.345,2002,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 401,Shazam!,367799011,140480049,38.20%,227318962,0.618,2019,#N/A
-402,Hello Mr. Billionaire,366961907,-,-,366961907,1,2018,#N/A
+402,Hello Mr. Billionaire,366961907,0,0,366961907,1,2018,#N/A
 403,Die Hard with a Vengeance,366101666,100012499,27.30%,266089167,0.727,1995,#N/A
 404,The Nun,365582797,117481222,32.10%,248101575,0.679,2018,"[{'id': 18, 'name': 'Drama'}]"
 405,Alvin and the Chipmunks,365352546,217326974,59.50%,148025572,0.405,2007,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}]"
