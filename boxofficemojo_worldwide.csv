@@ -94,7 +94,7 @@
 93,Transformers: Revenge of the Fallen,836303693,402111870,0.481,434191823,0.519,2009,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]"
 94,Spider-Man,825025036,407022860,0.49,418002176,0.51,2002,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]"
 95,Wonder Woman,822854286,412845172,0.502,410009114,0.498,2017,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}]"
-96,"Hi, Mom",822009764,#N/A,#N/A,822009764,1,2021,#N/A
+96,"Hi, Mom",822009764,,,822009764,1,2021,#N/A
 97,Independence Day,817400891,306169268,37.50%,511231623,0.625,1996,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]"
 98,Coco,814337054,210460015,25.80%,603877039,0.742,2017,"[{'id': 35, 'name': 'Comedy'}]"
 99,Fantastic Beasts and Where to Find Them,814044001,234037575,28.80%,580006426,0.712,2016,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
@@ -147,7 +147,7 @@
 146,The Hunger Games,694394724,408010692,58.80%,286384032,0.412,2012,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]"
 147,Spider-Man: Across the Spider-Verse,689664223,381305034,55.30%,308359189,0.447,2023,#N/A
 148,Moana,687228908,248757044,36.20%,438471864,0.638,2016,"[{'id': 99, 'name': 'Documentary'}]"
-149,Detective Chinatown 3,686257563,#N/A,#N/A,686257563,1,2021,#N/A
+149,Detective Chinatown 3,686257563,,,686257563,1,2021,#N/A
 150,Mission: Impossible - Rogue Nation,682716636,195042377,28.60%,487674259,0.714,2015,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
 151,Forrest Gump,678226465,330455270,48.70%,347771195,0.513,1994,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 152,Doctor Strange,677796076,232641920,34.30%,445154156,0.657,2016,"[{'id': 28, 'name': 'Action'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
@@ -278,7 +278,7 @@
 277,Cars,461991867,244082982,52.80%,217908885,0.472,2006,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
 278,The Eight Hundred,461421559,372755,<0.1%,461048804,0.999,2020,#N/A
 279,X-Men: The Last Stand,460435291,234362462,50.90%,226072829,0.491,2006,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]"
-280,Moon Man,460237662,#N/A,#N/A,460237662,1,2022,"[{'id': 10751, 'name': 'Family'}]"
+280,Moon Man,460237662,,,460237662,1,2022,"[{'id': 10751, 'name': 'Family'}]"
 281,National Treasure: Book of Secrets,459242249,219964115,47.90%,239278134,0.521,2007,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
 282,Mission: Impossible,457696391,180981856,39.50%,276714535,0.605,1996,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]"
 283,300,456082343,210629101,46.20%,245453242,0.538,2007,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10752, 'name': 'War'}]"
@@ -466,7 +466,7 @@
 465,The Rock,335062621,134069511,40%,200993110,0.6,1996,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
 466,The Great Wall,334933831,45540830,13.60%,289393001,0.864,2016,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]"
 467,Now You See Me 2,334897606,65075540,19.40%,269822066,0.806,2016,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
-468,Never Say Die,334530869,#N/A,#N/A,334530869,1,2017,#N/A
+468,Never Say Die,334530869,,,334530869,1,2017,#N/A
 469,Bridget Jones's Diary,334272563,71543427,21.40%,262729136,0.786,2001,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]"
 470,Fantastic Four,333535934,154696080,46.40%,178839854,0.536,2005,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]"
 471,Indiana Jones and the Temple of Doom,333107271,179870271,54%,153237000,0.46,1984,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]"
@@ -481,7 +481,7 @@
 480,The Perfect Storm,328718434,182618434,55.60%,146100000,0.444,2000,"[{'id': 18, 'name': 'Drama'}]"
 481,John Wick: Chapter 3 - Parabellum,328349387,171015687,52.10%,157333700,0.479,2019,#N/A
 482,Crocodile Dundee,328203506,174803506,53.30%,153400000,0.467,1986,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]"
-483,Crazy Alien,327598891,#N/A,#N/A,327598891,1,2019,#N/A
+483,Crazy Alien,327598891,,,327598891,1,2019,#N/A
 484,Se7en,327333559,100125643,30.60%,227207916,0.694,1995,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
 485,The Devil Wears Prada,326706115,124740460,38.20%,201965655,0.618,2006,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 486,Taken 3,326479141,89256424,27.30%,237222717,0.727,2015,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}]"
@@ -647,7 +647,7 @@
 646,Lost in Hong Kong,256283912,1302281,0.50%,254981631,0.995,2015,#N/A
 647,Erin Brockovich,256271286,125595205,49%,130676081,0.51,2000,"[{'id': 18, 'name': 'Drama'}]"
 648,Us,256067149,175084580,68.40%,80982569,0.316,2019,#N/A
-649,Pegasus,255863112,#N/A,#N/A,255863112,1,2019,#N/A
+649,Pegasus,255863112,,,255863112,1,2019,#N/A
 650,Get Out,255745157,176196665,68.90%,79548492,0.311,2016,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]"
 651,Marley & Me,255743093,143153751,56%,112589342,0.44,2008,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
 652,Cliffhanger,255000211,84049211,33%,170951000,0.67,1993,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]"
@@ -685,7 +685,7 @@
 684,Dark Shadows,245527149,79727149,32.50%,165800000,0.675,2012,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]"
 685,Hulk,245285165,132177234,53.90%,113107931,0.461,2003,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]"
 686,The Bravest,245179562,290217,0.10%,244889345,0.999,2019,#N/A
-687,Welcome to the Sticks,245144417,#N/A,#N/A,245144417,1,2008,"[{'id': 35, 'name': 'Comedy'}]"
+687,Welcome to the Sticks,245144417,,,245144417,1,2008,"[{'id': 35, 'name': 'Comedy'}]"
 688,Back to the Future Part III,245077583,88277583,36%,156800000,0.64,1990,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 878, 'name': 'Science Fiction'}]"
 689,Pixels,244874809,78747585,32.20%,166127224,0.678,2015,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]"
 690,Hercules,244819862,72688614,29.70%,172131248,0.703,2014,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
@@ -798,7 +798,7 @@
 797,Twins,216614388,111938388,51.70%,104676000,0.483,1988,"[{'id': 35, 'name': 'Comedy'}]"
 798,Valentine's Day,216528528,110528528,51%,106000000,0.49,2010,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
 799,Bad Teacher,216197492,100292856,46.40%,115904636,0.536,2011,"[{'id': 35, 'name': 'Comedy'}]"
-800,A Little Red Flower,216000000,#N/A,#N/A,216000000,1,2020,#N/A
+800,A Little Red Flower,216000000,,,216000000,1,2020,#N/A
 801,The Croods: A New Age,215905815,58568815,27.10%,157337000,0.729,2020,#N/A
 802,Clear and Present Danger,215887717,122187717,56.60%,93700000,0.434,1994,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
 803,One Hundred and One Dalmatians,215880014,144880014,67.10%,71000000,0.329,1961,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
@@ -834,12 +834,12 @@
 833,Master and Commander: The Far Side of the World,211622535,93927920,44.40%,117694615,0.556,2003,"[{'id': 12, 'name': 'Adventure'}]"
 834,A Series of Unfortunate Events,211468235,118634549,56.10%,92833686,0.439,2004,#N/A
 835,The Little Mermaid,211343479,111543479,52.80%,99800000,0.472,1989,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
-836,Nice View,211019042,#N/A,#N/A,211019042,1,2022,#N/A
+836,Nice View,211019042,,,211019042,1,2022,#N/A
 837,District 9,210888950,115646235,54.80%,95242715,0.452,2009,"[{'id': 878, 'name': 'Science Fiction'}]"
 838,Moonraker,210308099,70308099,33.40%,140000000,0.666,1979,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]"
 839,The Others,209956210,96531860,46%,113424350,0.54,2001,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]"
 840,Horrible Bosses,209838559,117538559,56%,92300000,0.44,2011,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]"
-841,Us and Them,209221380,#N/A,#N/A,209221380,1,2018,#N/A
+841,Us and Them,209221380,,,209221380,1,2018,#N/A
 842,Red Dragon,209196298,93149898,44.50%,116046400,0.555,2002,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]"
 843,Tomorrowland,209035668,93436322,44.70%,115599346,0.553,2015,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}]"
 844,Me Before You,208314186,56245075,27%,152069111,0.73,2016,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
@@ -902,7 +902,7 @@
 901,Christopher Robin,197744377,99215042,50.20%,98529335,0.498,2018,#N/A
 902,Jack the Giant Slayer,197687603,65187603,33%,132500000,0.67,2013,"[{'id': 28, 'name': 'Action'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]"
 903,Smurfs: The Lost Village,197183546,45020282,22.80%,152163264,0.772,2017,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
-904,Chinese Doctors,197143218,#N/A,#N/A,197143218,1,2021,#N/A
+904,Chinese Doctors,197143218,,,197143218,1,2021,#N/A
 905,Spy Kids 3: Game Over,197101678,111761982,56.70%,85339696,0.433,2003,#N/A
 906,Panic Room,197079546,96397334,48.90%,100682212,0.511,2002,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
 907,The Other Woman,196710396,83911193,42.70%,112799203,0.573,2014,"[{'id': 18, 'name': 'Drama'}]"
@@ -927,7 +927,7 @@
 926,Weathering with You,193136313,8056636,4.20%,185079677,0.958,2019,#N/A
 927,The Lost City,192907684,105344029,54.60%,87563655,0.454,2022,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 928,The Equalizer,192330738,101530738,52.80%,90800000,0.472,2014,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]"
-929,Sheep Without a Shepherd,191602146,#N/A,#N/A,191602146,1,2019,#N/A
+929,Sheep Without a Shepherd,191602146,,,191602146,1,2019,#N/A
 930,The Addams Family,191502426,113502426,59.30%,78000000,0.407,1991,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]"
 931,The Longest Yard,191466556,158119460,82.60%,33347096,0.174,2005,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]"
 932,Sound of Freedom,190829464,183137093,96%,7692371,0.04,2023,#N/A
@@ -943,7 +943,7 @@
 942,Rambo III,189015611,53715611,28.40%,135300000,0.716,1988,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]"
 943,Insidious: The Red Door,188378841,82152860,43.60%,106225981,0.564,2023,#N/A
 944,The Secret Life of Walter Mitty,188133322,58236838,31%,129896484,0.69,2013,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]"
-945,Project Gutenberg,188116796,#N/A,#N/A,188116796,1,2018,#N/A
+945,Project Gutenberg,188116796,,,188116796,1,2018,#N/A
 946,Jaws 2,187884007,81766007,43.50%,106118000,0.565,1978,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]"
 947,12 Years a Slave,187733202,56671993,30.20%,131061209,0.698,2013,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]"
 948,Heat,187436818,67436818,36%,120000000,0.64,1995,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
@@ -953,7 +953,7 @@
 952,I Now Pronounce You Chuck & Larry,187134117,120059556,64.20%,67074561,0.358,2007,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]"
 953,The Horse Whisperer,186883563,75383563,40.30%,111500000,0.597,1998,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 954,Walk the Line,186797986,119519402,64%,67278584,0.36,2005,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]"
-955,Jian Bing Man,186699768,#N/A,#N/A,186699768,1,2015,#N/A
+955,Jian Bing Man,186699768,,,186699768,1,2015,#N/A
 956,The Jungle Book 2,186303759,47901582,25.70%,138402177,0.743,2003,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}]"
 957,The Final Destination,186167139,66477700,35.70%,119689439,0.643,2009,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}]"
 958,Atlantis: The Lost Empire,186053725,84056472,45.20%,101997253,0.548,2001,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]"
@@ -972,7 +972,7 @@
 971,Knowing,183658498,79957634,43.50%,103700864,0.565,2007,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]"
 972,102 Dalmatians,183611771,66957026,36.50%,116654745,0.635,2000,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
 973,Storks,183510278,72800603,39.70%,110709675,0.603,2016,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
-974,Stand by Me Doraemon,183442714,#N/A,#N/A,183442714,1,2014,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
+974,Stand by Me Doraemon,183442714,,,183442714,1,2014,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]"
 975,The Hitman's Bodyguard,183428689,75468583,41.10%,107960106,0.589,2017,#N/A
 976,Paul Blart: Mall Cop,183348429,146336178,79.80%,37012251,0.202,2009,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]"
 977,Wayne's World,183097323,121697323,66.50%,61400000,0.335,1992,"[{'id': 10402, 'name': 'Music'}, {'id': 35, 'name': 'Comedy'}]"
@@ -981,10 +981,10 @@
 980,The Man in the Iron Mask,182968902,56968902,31.10%,126000000,0.689,1998,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]"
 981,Cape Fear,182291969,79091969,43.40%,103200000,0.566,1991,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]"
 982,The Haunted Mansion,182290266,75847266,41.60%,106443000,0.584,2003,"[{'id': 53, 'name': 'Thriller'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 9648, 'name': 'Mystery'}]"
-983,The Monkey King: Havoc in Heaven's Palace,182206924,#N/A,#N/A,182206924,1,2014,#N/A
+983,The Monkey King: Havoc in Heaven's Palace,182206924,,,182206924,1,2014,#N/A
 984,While You Were Sleeping,182057016,81057016,44.50%,101000000,0.555,1995,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
 985,The Bridges of Madison County,182016617,71516617,39.30%,110500000,0.607,1995,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]"
-986,From Vegas to Macau III,181732879,#N/A,#N/A,181732879,1,2016,#N/A
+986,From Vegas to Macau III,181732879,,,181732879,1,2016,#N/A
 987,Poseidon,181674817,60674817,33.40%,121000000,0.666,2006,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]"
 988,The First Wives Club,181489203,105489203,58.10%,76000000,0.419,1996,"[{'id': 35, 'name': 'Comedy'}]"
 989,Cliff Walkers,181325565,152972,<0.1%,181172593,0.999,2021,#N/A
