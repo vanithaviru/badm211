@@ -1,8 +1,8 @@
-City,Country,Venue,NumOpeningActs,OpeningAct1,OpeningAct2,OpeningAct3,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
-Evansville,United States,Roberts Municipal Stadium,2,Gloriana,Kellie Pickler,,7463,7463,1,360617,Fearless_Tour
-Jonesboro,United States,Convocation Center,2,Gloriana,Kellie Pickler,,7822,7822,1,340328,Fearless_Tour
-St. Louis,United States,Scottrade Center,2,Gloriana,Kellie Pickler,,13764,13764,1,650420,Fearless_Tour
-Alexandria,United States,Bishop Ireton High School,2,Gloriana,Kellie Pickler,,,,,,Fearless_Tour
-North Charleston,United States,North Charleston Coliseum,2,Gloriana,Kellie Pickler,,8751,8751,1,398154,Fearless_Tour
-Jacksonville,United States,Jacksonville Veterans Memorial Arena,2,Gloriana,Kellie Pickler,,11072,11072,1,507012,Fearless_Tour
-Biloxi,United States,Mississippi Coast Coliseum,2,Gloriana,Kellie Pickler,,9436,9436,1,437313,Fearless_Tour
+City,Country,NumOpeningActs,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
+Evansville,United States,2,7463,7463,1,360617,Fearless_Tour
+Jonesboro,United States,2,7822,7822,1,340328,Fearless_Tour
+St. Louis,United States,2,13764,13764,1,650420,Fearless_Tour
+Alexandria,United States,2,,,,,Fearless_Tour
+North Charleston,United States,2,8751,8751,1,398154,Fearless_Tour
+Jacksonville,United States,2,11072,11072,1,507012,Fearless_Tour
+Biloxi,United States,2,9436,9436,1,437313,Fearless_Tour
