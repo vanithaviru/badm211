@@ -1,4 +1,4 @@
-City,Country,Venue,NumOpeningActs,OpeningAct1,Opening Act 2,,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
+City,Country,Venue,NumOpeningActs,OpeningAct1,OpeningAct2,OpeningAct3,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
 Evansville,United States,Roberts Municipal Stadium,2,Gloriana,Kellie Pickler,,7463,7463,1,360617,Fearless_Tour
 Jonesboro,United States,Convocation Center,2,Gloriana,Kellie Pickler,,7822,7822,1,340328,Fearless_Tour
 St. Louis,United States,Scottrade Center,2,Gloriana,Kellie Pickler,,13764,13764,1,650420,Fearless_Tour
