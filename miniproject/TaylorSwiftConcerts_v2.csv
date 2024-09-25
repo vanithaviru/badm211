@@ -6,8 +6,8 @@ Alexandria,United States,Bishop Ireton High School,2,Gloriana,Kellie Pickler,,,,
 North Charleston,United States,North Charleston Coliseum,2,Gloriana,Kellie Pickler,,8751,8751,1,398154,Fearless_Tour
 Jacksonville,United States,Jacksonville Veterans Memorial Arena,2,Gloriana,Kellie Pickler,,11072,11072,1,507012,Fearless_Tour
 Biloxi,United States,Mississippi Coast Coliseum,2,Gloriana,Kellie Pickler,,9436,9436,1,437313,Fearless_Tour
-London,England,Shepherd's Bush Empire,0,,,,6789,6789,1,401328,Fearless_Tour
-London,England,Shepherd's Bush Empire,0,,,,6789,6789,1,401328,Fearless_Tour
+London,England,"Shepherd's Bush Empire",0,,,,6789,6789,1,401328,Fearless_Tour
+London,England,"Shepherd's Bush Empire",0,,,,6789,6789,1,401328,Fearless_Tour
 Spokane,United States,Spokane Arena,2,Gloriana,Kellie Pickler,,10798,10798,1,482146,Fearless_Tour
 Seattle,United States,KeyArena,2,Gloriana,Kellie Pickler,,12061,12061,1,528637,Fearless_Tour
 Portland,United States,Rose Garden Arena,2,Gloriana,Kellie Pickler,,13226,13226,1,613284,Fearless_Tour
@@ -348,8 +348,8 @@ Vancouver,Canada,BC Place,2,Vance Joy,Shawn Mendes,,41463,41463,1,4081820,The_19
 Edmonton,Canada,Rexall Place,1,Vance Joy,,,26534,26534,1,2387080,The_1989_World_Tour
 Edmonton,Canada,Rexall Place,1,Vance Joy,,,26534,26534,1,2387080,The_1989_World_Tour
 Seattle,United States,CenturyLink Field,2,Vance Joy,Shawn Mendes,,55711,55711,1,6050643,The_1989_World_Tour
-Santa Clara,United States,Levi's Stadium,2,Vance Joy,Shawn Mendes,,102139,102139,1,13031146,The_1989_World_Tour
-Santa Clara,United States,Levi's Stadium,2,Vance Joy,Shawn Mendes,,102139,102139,1,13031146,The_1989_World_Tour
+Santa Clara,United States,"Levi's Stadium",2,Vance Joy,Shawn Mendes,,102139,102139,1,13031146,The_1989_World_Tour
+Santa Clara,United States,"Levi's Stadium",2,Vance Joy,Shawn Mendes,,102139,102139,1,13031146,The_1989_World_Tour
 Glendale,United States,Gila River Arena,1,Vance Joy,,,26520,26520,1,3029628,The_1989_World_Tour
 Glendale,United States,Gila River Arena,1,Vance Joy,,,26520,26520,1,3029628,The_1989_World_Tour
 Los Angeles,United States,Staples Center,2,Vance Joy,Haim,,70563,70563,1,8961681,The_1989_World_Tour
@@ -399,8 +399,8 @@ Melbourne,Australia,AAMI Park,1,Vance Joy,,,98136,98136,1,10421553,The_1989_Worl
 Melbourne,Australia,AAMI Park,1,Vance Joy,,,98136,98136,1,10421553,The_1989_World_Tour
 Melbourne,Australia,AAMI Park,1,Vance Joy,,,98136,98136,1,10421553,The_1989_World_Tour
 Glendale,United States,University of Phoenix Stadium,2,Camila Cabello,Charli XCX,,59157,59157,1,7214478,Reputation_Stadium_Tour
-Santa Clara,United States,Levi's Stadium,2,Camila Cabello,Charli XCX,,107550,107550,1,14006963,Reputation_Stadium_Tour
-Santa Clara,United States,Levi's Stadium,2,Camila Cabello,Charli XCX,,107550,107550,1,14006963,Reputation_Stadium_Tour
+Santa Clara,United States,"Levi's Stadium",2,Camila Cabello,Charli XCX,,107550,107550,1,14006963,Reputation_Stadium_Tour
+Santa Clara,United States,"Levi's Stadium",2,Camila Cabello,Charli XCX,,107550,107550,1,14006963,Reputation_Stadium_Tour
 Pasadena,United States,Rose Bowl,2,Camila Cabello,Charli XCX,,118084,118084,1,16251980,Reputation_Stadium_Tour
 Pasadena,United States,Rose Bowl,2,Camila Cabello,Charli XCX,,118084,118084,1,16251980,Reputation_Stadium_Tour
 Seattle,United States,CenturyLink Field,2,Camila Cabello,Charli XCX,,56021,56021,1,8672219,Reputation_Stadium_Tour
@@ -439,7 +439,7 @@ Minneapolis,United States,U.S. Bank Stadium,2,Camila Cabello,Charli XCX,,98774,9
 Minneapolis,United States,U.S. Bank Stadium,2,Camila Cabello,Charli XCX,,98774,98774,1,10242024,Reputation_Stadium_Tour
 Kansas City,United States,Arrowhead Stadium,2,Camila Cabello,Charli XCX,,58611,58611,1,6730138,Reputation_Stadium_Tour
 Indianapolis,United States,Lucas Oil Stadium,2,Camila Cabello,Charli XCX,,55729,55729,1,6531245,Reputation_Stadium_Tour
-St. Louis,United States,The Dome at America's Center,2,Camila Cabello,Charli XCX,,47831,47831,1,4884054,Reputation_Stadium_Tour
+St. Louis,United States,"The Dome at America's Center",2,Camila Cabello,Charli XCX,,47831,47831,1,4884054,Reputation_Stadium_Tour
 New Orleans,United States,Mercedes-Benz Superdome,2,Camila Cabello,Charli XCX,,53172,53172,1,6491546,Reputation_Stadium_Tour
 Houston,United States,NRG Stadium,2,Camila Cabello,Charli XCX,,53800,53800,1,9350275,Reputation_Stadium_Tour
 Arlington,United States,AT&T Stadium,2,Camila Cabello,Charli XCX,,105002,105002,1,15006157,Reputation_Stadium_Tour
