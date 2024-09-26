@@ -1,455 +1,448 @@
-City,Country,Venue,CityNight,NumOpeningActs,OpeningAct1,OpeningAct2,OpeningAct3,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
-Evansville,United States,Roberts Municipal Stadium,1,2,Gloriana,Kellie Pickler,,7463,7463,1,360617,Fearless Tour
-Jonesboro,United States,Convocation Center,1,2,Gloriana,Kellie Pickler,,7822,7822,1,340328,Fearless Tour
-St. Louis,United States,Scottrade Center,1,2,Gloriana,Kellie Pickler,,13764,13764,1,650420,Fearless Tour
-Alexandria,United States,Bishop Ireton High School,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-North Charleston,United States,North Charleston Coliseum,1,2,Gloriana,Kellie Pickler,,8751,8751,1,398154,Fearless Tour
-Jacksonville,United States,Jacksonville Veterans Memorial Arena,1,2,Gloriana,Kellie Pickler,,11072,11072,1,507012,Fearless Tour
-Biloxi,United States,Mississippi Coast Coliseum,1,2,Gloriana,Kellie Pickler,,9436,9436,1,437313,Fearless Tour
-London,England,Shepherd's Bush Empire,1,,,,,6789,6789,1,401328,Fearless Tour
-London,England,Shepherd's Bush Empire,2,,,,,6789,6789,1,401328,Fearless Tour
-Spokane,United States,Spokane Arena,1,2,Gloriana,Kellie Pickler,,10798,10798,1,482146,Fearless Tour
-Seattle,United States,KeyArena,1,2,Gloriana,Kellie Pickler,,12061,12061,1,528637,Fearless Tour
-Portland,United States,Rose Garden Arena,1,2,Gloriana,Kellie Pickler,,13226,13226,1,613284,Fearless Tour
-Nampa,United States,Ford Arena,1,2,Gloriana,Kellie Pickler,,8970,8970,1,413622,Fearless Tour
-Glendale,United States,Jobing.com Arena,1,2,Gloriana,Kellie Pickler,,13052,13052,1,647923,Fearless Tour
-Los Angeles,United States,Staples Center,1,2,Gloriana,Kellie Pickler,,13648,13648,1,720940,Fearless Tour
-Paradise,United States,Mandalay Bay Events Center,1,2,Gloriana,Kellie Pickler,,8311,8311,1,551051,Fearless Tour
-San Diego,United States,Valley View Casino Center,1,2,Gloriana,Kellie Pickler,,10174,10174,1,502689,Fearless Tour
-Salt Lake City,United States,EnergySolutions Arena,1,2,Gloriana,Kellie Pickler,,13042,13042,1,555207,Fearless Tour
-New Brockton,United States,BamaJam Farms,1,,,,,,,,,Fearless Tour
-Columbia,United States,Merriweather Post Pavilion,1,2,Gloriana,Kellie Pickler,,17619,17619,1,608438,Fearless Tour
-Greensboro,United States,Greensboro Coliseum,1,2,Gloriana,Kellie Pickler,,14641,14641,1,690959,Fearless Tour
-Oshkosh,United States,Ford Festival Park,1,,,,,,,,,Fearless Tour
-Cadott,United States,Amphitheatre Concert Grounds,1,,,,,,,,,Fearless Tour
-Calgary,Canada,Pengrowth Saddledome,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Edmonton,Canada,Commonwealth Stadium,1,,,,,33910,44500,0,2540906,Fearless Tour
-Craven,Canada,Big Valley Park,1,,,,,,,,,Fearless Tour
-Winnipeg,Canada,MTS Centre,1,2,Gloriana,Kellie Pickler,,11369,11369,1,512487,Fearless Tour
-Twin Lakes,United States,Country Thunder Festival,1,,,,,,,,,Fearless Tour
-Columbus,United States,Value City Arena,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Charleston,United States,Charleston Civic Center,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Cheyenne,United States,Cheyenne Frontier Days Arena,1,1,Kellie Pickler,,,,,,,Fearless Tour
-Rapid City,United States,Barnett Arena,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Minot,United States,North Dakota State Fair Grandstand,1,,,,,,,,,Fearless Tour
-Philadelphia,United States,Wachovia Spectrum,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Detroit Lakes,United States,Soo Pass Ranch,1,,,,,,,,,Fearless Tour
-Omaha,United States,Qwest Center Omaha,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Chelmsford,England,Hylands Park,1,,,,,,,,,Fearless Tour
-Weston-under-Lizard,England,Weston Park,1,,,,,,,,,Fearless Tour
-New York City,United States,Madison Square Garden,1,2,Gloriana,Kellie Pickler,,13597,13597,1,976062,Fearless Tour
-Montville,United States,Mohegan Sun Arena,1,2,Gloriana,Kellie Pickler,,7507,7507,1,296306,Fearless Tour
-University Park,United States,Bryce Jordan Center,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Louisville,United States,Freedom Hall,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Duluth,United States,Arena at Gwinnett Center,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Greenville,United States,Bi-Lo Center,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Charlotte,United States,Time Warner Cable Arena,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Lafayette,United States,Cajundome,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Bossier City,United States,CenturyTel Center,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Birmingham,United States,BJCC Arena,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Nashville,United States,Bridgestone Arena,1,2,Gloriana,Kellie Pickler,,14269,14269,1,642387,Fearless Tour
-Dallas,United States,American Airlines Center,1,2,Gloriana,Kellie Pickler,,13794,13794,1,628062,Fearless Tour
-North Little Rock,United States,Verizon Arena,1,2,Gloriana,Kellie Pickler,,13978,13978,1,654089,Fearless Tour
-Tulsa,United States,BOK Center,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Pittsburgh,United States,Mellon Arena,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Grand Rapids,United States,Van Andel Arena,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Cleveland,United States,Quicken Loans Arena,1,2,Gloriana,Kellie Pickler,,15524,15524,1,743492,Fearless Tour
-Indianapolis,United States,Conseco Fieldhouse,1,2,Gloriana,Kellie Pickler,,13373,13373,1,634876,Fearless Tour
-Rosemont,United States,Allstate Arena,1,2,Gloriana,Kellie Pickler,,26265,26265,1,1150896,Fearless Tour
-Rosemont,United States,Allstate Arena,2,2,Gloriana,Kellie Pickler,,26265,26265,1,1150896,Fearless Tour
-Minneapolis,United States,Target Center,1,2,Gloriana,Kellie Pickler,,13563,13563,1,623975,Fearless Tour
-London,England,Wembley Arena,1,1,Justin Bieber,,,,,,,Fearless Tour
-Manchester,England,Manchester Evening News Arena,1,1,Justin Bieber,,,,,,,Fearless Tour
-Brisbane,Australia,Brisbane Entertainment Centre,1,1,Gloriana,,,11334,11334,1,956505,Fearless Tour
-Sydney,Australia,Acer Arena,1,1,Gloriana,,,27030,27030,1,2030640,Fearless Tour
-Sydney,Australia,Acer Arena,2,1,Gloriana,,,27030,27030,1,2030640,Fearless Tour
-Newcastle,Australia,Newcastle Entertainment Centre,1,1,Gloriana,,,7180,7180,1,555396,Fearless Tour
-Melbourne,Australia,Rod Laver Arena,1,1,Gloriana,,,23493,23493,1,1627510,Fearless Tour
-Melbourne,Australia,Rod Laver Arena,2,1,Gloriana,,,23493,23493,1,1627510,Fearless Tour
-Adelaide,Australia,Adelaide Entertainment Centre,1,1,Gloriana,,,9066,9066,1,585352,Fearless Tour
-Tokyo,Japan,Zepp Tokyo,1,,,,,,,,,Fearless Tour
-Tampa,United States,St. Pete Times Forum,1,2,Gloriana,Kellie Pickler,,13861,13861,1,793049,Fearless Tour
-Orlando,United States,Amway Arena,1,2,Gloriana,Kellie Pickler,,11101,11101,1,598581,Fearless Tour
-Sunrise,United States,BankAtlantic Center,1,2,Gloriana,Kellie Pickler,,13453,13453,1,777442,Fearless Tour
-Austin,United States,Frank Erwin Center,1,2,Gloriana,Kellie Pickler,,11928,11928,1,642705,Fearless Tour
-Dallas,United States,American Airlines Center,1,2,Gloriana,Kellie Pickler,,14022,14022,1,742954,Fearless Tour
-Corpus Christi,United States,American Bank Center Arena,1,2,Gloriana,Kellie Pickler,,8423,8423,1,501169,Fearless Tour
-Philadelphia,United States,Wells Fargo Center,1,2,Gloriana,Kellie Pickler,,30360,30360,1,2002321,Fearless Tour
-Philadelphia,United States,Wells Fargo Center,2,2,Gloriana,Kellie Pickler,,30360,30360,1,2002321,Fearless Tour
-Charlottesville,United States,John Paul Jones Arena,1,2,Gloriana,Kellie Pickler,,11858,11858,1,664305,Fearless Tour
-Auburn Hills,United States,The Palace of Auburn Hills,1,2,Gloriana,Kellie Pickler,,29125,29125,1,1711591,Fearless Tour
-Auburn Hills,United States,The Palace of Auburn Hills,2,2,Gloriana,Kellie Pickler,,29125,29125,1,1711591,Fearless Tour
-Cincinnati,United States,U.S. Bank Arena,1,2,Gloriana,Kellie Pickler,,11208,11208,1,645592,Fearless Tour
-Oklahoma City,United States,Ford Center,1,2,Gloriana,Kellie Pickler,,11795,11795,1,675184,Fearless Tour
-Wichita,United States,Intrust Bank Arena,1,2,Gloriana,Kellie Pickler,,11208,11208,1,610801,Fearless Tour
-Kansas City,United States,Sprint Center,1,2,Gloriana,Kellie Pickler,,13781,13781,1,761110,Fearless Tour
-Denver,United States,Pepsi Center,1,2,Gloriana,Kellie Pickler,,25991,25991,1,1497135,Fearless Tour
-Denver,United States,Pepsi Center,2,2,Gloriana,Kellie Pickler,,25991,25991,1,1497135,Fearless Tour
-Fresno,United States,Save Mart Center,1,2,Gloriana,Kellie Pickler,,11706,11706,1,649488,Fearless Tour
-San Jose,United States,HP Pavilion,1,2,Gloriana,Kellie Pickler,,12744,12744,1,716726,Fearless Tour
-Los Angeles,United States,Staples Center,1,2,Gloriana,Kellie Pickler,,27518,27518,1,1736197,Fearless Tour
-Los Angeles,United States,Staples Center,2,2,Gloriana,Kellie Pickler,,27518,27518,1,1736197,Fearless Tour
-Lexington,United States,Rupp Arena,1,2,Gloriana,Kellie Pickler,,17966,17966,1,1024223,Fearless Tour
-Columbia,United States,Colonial Life Arena,1,2,Gloriana,Kellie Pickler,,13429,13429,1,755475,Fearless Tour
-Raleigh,United States,RBC Center,1,2,Gloriana,Kellie Pickler,,13895,13895,1,752303,Fearless Tour
-Des Moines,United States,Wells Fargo Arena,1,2,Gloriana,Kellie Pickler,,13264,13264,1,738280,Fearless Tour
-Saint Paul,United States,Xcel Energy Center,1,2,Gloriana,Kellie Pickler,,14914,14914,1,846111,Fearless Tour
-Moline,United States,iWireless Center,1,2,Gloriana,Kellie Pickler,,10641,10641,1,610668,Fearless Tour
-Newark,United States,Prudential Center,1,2,Gloriana,Kellie Pickler,,26065,26065,1,1742669,Fearless Tour
-Newark,United States,Prudential Center,2,2,Gloriana,Kellie Pickler,,26065,26065,1,1742669,Fearless Tour
-Uniondale,United States,Nassau Veterans Memorial Coliseum,1,2,Gloriana,Kellie Pickler,,25831,25831,1,1713529,Fearless Tour
-Uniondale,United States,Nassau Veterans Memorial Coliseum,2,2,Gloriana,Kellie Pickler,,25831,25831,1,1713529,Fearless Tour
-Ottawa,Canada,Scotiabank Place,1,2,Gloriana,Kellie Pickler,,13376,13376,1,873206,Fearless Tour
-Toronto,Canada,Air Canada Centre,1,2,Gloriana,Kellie Pickler,,30458,30458,1,2497690,Fearless Tour
-Toronto,Canada,Air Canada Centre,2,2,Gloriana,Kellie Pickler,,30458,30458,1,2497690,Fearless Tour
-Houston,United States,Toyota Center,1,2,Gloriana,Kellie Pickler,,23493,23493,1,1290926,Fearless Tour
-Houston,United States,Toyota Center,2,2,Gloriana,Kellie Pickler,,23493,23493,1,1290926,Fearless Tour
-Baton Rouge,United States,Tiger Stadium,1,,,,,,,,,Fearless Tour
-Washington,United States,Verizon Center,1,2,Gloriana,Kellie Pickler,,27290,27290,1,1824743,Fearless Tour
-Washington,United States,Verizon Center,2,2,Gloriana,Kellie Pickler,,27290,27290,1,1824743,Fearless Tour
-Foxborough,United States,Gillette Stadium,1,3,Gloriana,Justin Bieber,Kellie Pickler,56868,56868,1,3726157,Fearless Tour
-Nassau,The Bahamas,Imperial Ballroom,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
-Cavendish,Canada,Cavendish Beach Festival Grounds,1,,,,,35000,35000,1,,Fearless Tour
-Singapore,Singapore,Singapore Indoor Stadium,1,1,Sezairi Sezali,,,8964,8964,1,916850,Speak Now World Tour
-Seoul,South Korea,Olympic Gymnastics Arena,1,,,,,4725,4725,1,385374,Speak Now World Tour
-Osaka,Japan,Osaka-Jo Hall,1,,,,,6953,6953,1,758113,Speak Now World Tour
-Tokyo,Japan,Nippon Budokan,1,,,,,15955,15955,1,1738227,Speak Now World Tour
-Tokyo,Japan,Nippon Budokan,2,,,,,15955,15955,1,1738227,Speak Now World Tour
-Quezon City,Philippines,Smart Araneta Coliseum,1,1,Sam Concepcion,,,12667,12667,1,859037,Speak Now World Tour
-Hong Kong,Hong Kong,AsiaWorldñArena,1,1,Saito Johnny,,,12573,12573,1,1030633,Speak Now World Tour
-Brussels,Belgium,Forest National,1,1,Tom Dice,,,4622,4622,1,219212,Speak Now World Tour
-Rotterdam,Netherlands,Sportpaleis van Ahoy,1,1,Tom Dice,,,4799,4799,1,248314,Speak Now World Tour
-Oslo,Norway,Oslo Spektrum,1,,,,,8650,8650,1,815246,Speak Now World Tour
-Oberhausen,Germany,Kˆnig Pilsener Arena,1,1,Martin & James,,,6082,6082,1,370028,Speak Now World Tour
-Milan,Italy,Mediolanum Forum,1,1,Emma Marrone,,,3421,5585,0,153303,Speak Now World Tour
-Paris,France,ZÈnith de Paris,1,,,,,3598,8500,0,201781,Speak Now World Tour
-Madrid,Spain,Palacio de los Deportes,1,1,The Bright,,,3962,3962,1,251864,Speak Now World Tour
-Birmingham,England,LG Arena,1,1,Martin & James,,,9339,9339,1,508854,Speak Now World Tour
-Belfast,Northern Ireland,Odyssey Arena,1,1,Ryan Sheridan,,,8058,8058,1,379001,Speak Now World Tour
-Dublin,Ireland,The O2,1,1,Ryan Sheridan,,,8681,8681,1,419806,Speak Now World Tour
-Manchester,England,Manchester Evening News Arena,1,1,Martin & James,,,10488,11622,0,580558,Speak Now World Tour
-London,England,The O2 Arena,1,1,Martin & James,,,15265,15681,0,891152,Speak Now World Tour
-Omaha,United States,Qwest Center Omaha,1,1,Needtobreathe,,,26992,26992,1,1717104,Speak Now World Tour
-Omaha,United States,Qwest Center Omaha,2,1,Needtobreathe,,,26992,26992,1,1717104,Speak Now World Tour
-Des Moines,United States,Wells Fargo Arena,1,1,Needtobreathe,,,13149,13149,1,862771,Speak Now World Tour
-Sunrise,United States,BankAtlantic Center,1,1,Needtobreathe,,,24077,24077,1,1582951,Speak Now World Tour
-Sunrise,United States,BankAtlantic Center,2,1,Needtobreathe,,,24077,24077,1,1582951,Speak Now World Tour
-Orlando,United States,Amway Center,1,1,Needtobreathe,,,12262,12262,1,791980,Speak Now World Tour
-Columbus,United States,Nationwide Arena,1,1,Needtobreathe,,,14817,14817,1,955259,Speak Now World Tour
-Milwaukee,United States,Bradley Center,1,1,Needtobreathe,,,13748,13748,1,897042,Speak Now World Tour
-Detroit,United States,Ford Field,1,1,Needtobreathe,,,47992,47992,1,3453549,Speak Now World Tour
-Saint Paul,United States,Xcel Energy Center,1,1,Needtobreathe,,,28977,28977,1,1913737,Speak Now World Tour
-Saint Paul,United States,Xcel Energy Center,2,1,Needtobreathe,,,28977,28977,1,1913737,Speak Now World Tour
-Pittsburgh,United States,Heinz Field,1,1,Needtobreathe,,,52009,52009,1,4009118,Speak Now World Tour
-Buffalo,United States,First Niagara Center,1,1,Needtobreathe,,,14487,14487,1,966749,Speak Now World Tour
-Hartford,United States,XL Center,1,1,Needtobreathe,,,12436,12436,1,810165,Speak Now World Tour
-Foxborough,United States,Gillette Stadium,1,1,Needtobreathe,,,110800,110800,1,8026350,Speak Now World Tour
-Foxborough,United States,Gillette Stadium,2,1,Needtobreathe,,,110800,110800,1,8026350,Speak Now World Tour
-Greensboro,United States,Greensboro Coliseum,1,1,Needtobreathe,,,14789,14789,1,990701,Speak Now World Tour
-Knoxville,United States,ThompsonñBoling Arena,1,1,Needtobreathe,,,13754,13754,1,903875,Speak Now World Tour
-Montreal,Canada,Bell Centre,1,1,Needtobreathe,,,13439,13439,1,1254230,Speak Now World Tour
-Toronto,Canada,Air Canada Centre,1,1,Needtobreathe,,,30144,30144,1,3036000,Speak Now World Tour
-Toronto,Canada,Air Canada Centre,2,1,Needtobreathe,,,30144,30144,1,3036000,Speak Now World Tour
-Newark,United States,Prudential Center,1,1,Needtobreathe,,,51487,51487,1,3875463,Speak Now World Tour
-Newark,United States,Prudential Center,2,1,Needtobreathe,,,51487,51487,1,3875463,Speak Now World Tour
-Newark,United States,Prudential Center,3,1,Needtobreathe,,,51487,51487,1,3875463,Speak Now World Tour
-Newark,United States,Prudential Center,4,1,Needtobreathe,,,51487,51487,1,3875463,Speak Now World Tour
-Grand Rapids,United States,Van Andel Arena,1,1,Needtobreathe,,,11012,11012,1,724854,Speak Now World Tour
-Indianapolis,United States,Conseco Fieldhouse,1,1,Needtobreathe,,,13329,13329,1,877175,Speak Now World Tour
-Cleveland,United States,Quicken Loans Arena,1,1,Needtobreathe,,,14873,14873,1,976954,Speak Now World Tour
-Washington,United States,Verizon Center,1,1,Needtobreathe,,,29303,29303,1,2068789,Speak Now World Tour
-Washington,United States,Verizon Center,2,1,Needtobreathe,,,29303,29303,1,2068789,Speak Now World Tour
-Philadelphia,United States,Lincoln Financial Field,1,1,Needtobreathe,,,51395,51395,1,4268678,Speak Now World Tour
-Rosemont,United States,Allstate Arena,1,1,Needtobreathe,,,26112,26112,1,1909603,Speak Now World Tour
-Rosemont,United States,Allstate Arena,2,1,Needtobreathe,,,26112,26112,1,1909603,Speak Now World Tour
-St. Louis,United States,Scottrade Center,1,1,Needtobreathe,,,27965,27965,1,1850159,Speak Now World Tour
-St. Louis,United States,Scottrade Center,2,1,Needtobreathe,,,27965,27965,1,1850159,Speak Now World Tour
-Edmonton,Canada,Rexall Place,1,1,Needtobreathe,,,25336,25336,1,2136270,Speak Now World Tour
-Edmonton,Canada,Rexall Place,2,1,Needtobreathe,,,25336,25336,1,2136270,Speak Now World Tour
-Los Angeles,United States,Staples Center,1,1,Needtobreathe,,,54900,54900,1,3927154,Speak Now World Tour
-Los Angeles,United States,Staples Center,2,1,Needtobreathe,,,54900,54900,1,3927154,Speak Now World Tour
-Los Angeles,United States,Staples Center,3,1,Needtobreathe,,,54900,54900,1,3927154,Speak Now World Tour
-Los Angeles,United States,Staples Center,4,1,Needtobreathe,,,54900,54900,1,3927154,Speak Now World Tour
-San Jose,United States,HP Pavilion,1,1,Needtobreathe,,,24827,24827,1,1825448,Speak Now World Tour
-San Jose,United States,HP Pavilion,2,1,Needtobreathe,,,24827,24827,1,1825448,Speak Now World Tour
-Sacramento,United States,Power Balance Pavilion,1,1,Needtobreathe,,,12432,12432,1,934326,Speak Now World Tour
-Portland,United States,Rose Garden Arena,1,1,Needtobreathe,,,13610,13610,1,903445,Speak Now World Tour
-Tacoma,United States,Tacoma Dome,1,1,Needtobreathe,,,19904,19904,1,1289430,Speak Now World Tour
-Vancouver,Canada,Rogers Arena,1,1,Needtobreathe,,,26030,26030,1,2190680,Speak Now World Tour
-Vancouver,Canada,Rogers Arena,2,1,Needtobreathe,,,26030,26030,1,2190680,Speak Now World Tour
-Nashville,United States,Bridgestone Arena,1,1,Needtobreathe,,,28178,28178,1,1841134,Speak Now World Tour
-Nashville,United States,Bridgestone Arena,2,1,Needtobreathe,,,28178,28178,1,1841134,Speak Now World Tour
-Bossier City,United States,CenturyLink Center,1,1,Needtobreathe,,,11510,11510,1,728546,Speak Now World Tour
-Tulsa,United States,BOK Center,1,1,Needtobreathe,,,12546,12546,1,907573,Speak Now World Tour
-Kansas City,United States,Arrowhead Stadium,1,1,Needtobreathe,,,48562,48562,1,3148046,Speak Now World Tour
-Denver,United States,Pepsi Center,1,1,Needtobreathe,,,12908,12908,1,834916,Speak Now World Tour
-Salt Lake City,United States,EnergySolutions Arena,1,1,Needtobreathe,,,13720,13720,1,896946,Speak Now World Tour
-Atlanta,United States,Philips Arena,1,1,Needtobreathe,,,26244,26244,1,1726661,Speak Now World Tour
-Atlanta,United States,Philips Arena,2,1,Needtobreathe,,,26244,26244,1,1726661,Speak Now World Tour
-North Little Rock,United States,Verizon Arena,1,1,Needtobreathe,,,13566,13566,1,856123,Speak Now World Tour
-New Orleans,United States,New Orleans Arena,1,1,Needtobreathe,,,12943,12943,1,830289,Speak Now World Tour
-Arlington,United States,Cowboys Stadium,1,1,Needtobreathe,,,55451,55451,1,4337062,Speak Now World Tour
-Louisville,United States,KFC Yum! Center,1,1,Needtobreathe,,,14848,14848,1,1003828,Speak Now World Tour
-Lubbock,United States,United Spirit Arena,1,1,Needtobreathe,,,10419,10419,1,710426,Speak Now World Tour
-Oklahoma City,United States,Chesapeake Energy Arena,1,1,Needtobreathe,,,11592,11592,1,758364,Speak Now World Tour
-San Diego,United States,Valley View Casino Center,1,1,Needtobreathe,,,10834,10834,1,792634,Speak Now World Tour
-Glendale,United States,Jobing.com Arena,1,1,Needtobreathe,,,27029,27029,1,1826025,Speak Now World Tour
-Glendale,United States,Jobing.com Arena,2,1,Needtobreathe,,,27029,27029,1,1826025,Speak Now World Tour
-San Antonio,United States,AT&T Center,1,1,Needtobreathe,,,13851,13851,1,901535,Speak Now World Tour
-Austin,United States,Frank Erwin Center,1,1,Needtobreathe,,,11999,11999,1,752078,Speak Now World Tour
-Lexington,United States,Rupp Arena,1,1,Needtobreathe,,,16237,16237,1,1041935,Speak Now World Tour
-Memphis,United States,FedExForum,1,1,Needtobreathe,,,12604,12604,1,820036,Speak Now World Tour
-Houston,United States,Minute Maid Park,1,1,Needtobreathe,,,42095,42095,1,3435756,Speak Now World Tour
-Jacksonville,United States,Jacksonville Veterans Memorial Arena,1,1,Needtobreathe,,,11785,11785,1,749099,Speak Now World Tour
-Tampa,United States,St. Pete Times Forum,1,1,Needtobreathe,,,13695,13695,1,914300,Speak Now World Tour
-Miami,United States,American Airlines Arena,1,1,Needtobreathe,,,12153,12153,1,786904,Speak Now World Tour
-Charlotte,United States,Time Warner Cable Arena,1,1,Needtobreathe,,,14272,14272,1,920903,Speak Now World Tour
-Raleigh,United States,RBC Center,1,1,Needtobreathe,,,13567,13567,1,866056,Speak Now World Tour
-Columbia,United States,Colonial Life Arena,1,1,Needtobreathe,,,12807,12807,1,828231,Speak Now World Tour
-New York,United States,Madison Square Garden,1,1,Needtobreathe,,,26652,26652,1,1988411,Speak Now World Tour
-New York,United States,Madison Square Garden,2,1,Needtobreathe,,,26652,26652,1,1988411,Speak Now World Tour
-Perth,Australia,Burswood Dome,1,1,Hot Chelle Rae,,,15142,15142,1,1878530,Speak Now World Tour
-Adelaide,Australia,Adelaide Entertainment Centre,1,1,Hot Chelle Rae,,,8589,8589,1,1075370,Speak Now World Tour
-Brisbane,Australia,Brisbane Entertainment Centre,1,1,Hot Chelle Rae,,,19870,19870,1,2416030,Speak Now World Tour
-Brisbane,Australia,Brisbane Entertainment Centre,2,1,Hot Chelle Rae,,,19870,19870,1,2416030,Speak Now World Tour
-Sydney,Australia,Allphones Arena,1,1,Hot Chelle Rae,,,27900,27900,1,3420360,Speak Now World Tour
-Sydney,Australia,Allphones Arena,2,1,Hot Chelle Rae,,,27900,27900,1,3420360,Speak Now World Tour
-Melbourne,Australia,Rod Laver Arena,1,1,Hot Chelle Rae,,,33793,33793,1,4151650,Speak Now World Tour
-Melbourne,Australia,Rod Laver Arena,2,1,Hot Chelle Rae,,,33793,33793,1,4151650,Speak Now World Tour
-Melbourne,Australia,Rod Laver Arena,3,1,Hot Chelle Rae,,,33793,33793,1,4151650,Speak Now World Tour
-Auckland,New Zealand,Vector Arena,1,1,Hot Chelle Rae,,,32585,32585,1,2888560,Speak Now World Tour
-Auckland,New Zealand,Vector Arena,2,1,Hot Chelle Rae,,,32585,32585,1,2888560,Speak Now World Tour
-Auckland,New Zealand,Vector Arena,3,1,Hot Chelle Rae,,,32585,32585,1,2888560,Speak Now World Tour
-Omaha,United States,CenturyLink Center Omaha,1,2,Ed Sheeran,Brett Eldredge,,27877,27877,1,2243164,The Red Tour
-Omaha,United States,CenturyLink Center Omaha,2,2,Ed Sheeran,Brett Eldredge,,27877,27877,1,2243164,The Red Tour
-St. Louis,United States,Scottrade Center,1,2,Ed Sheeran,Brett Eldredge,,28582,28582,1,2346203,The Red Tour
-St. Louis,United States,Scottrade Center,2,2,Ed Sheeran,Brett Eldredge,,28582,28582,1,2346203,The Red Tour
-Charlotte,United States,Time Warner Cable Arena,1,2,Ed Sheeran,Brett Eldredge,,14686,14686,1,1162733,The Red Tour
-Columbia,United States,Colonial Life Arena,1,2,Ed Sheeran,Brett Eldredge,,12490,12490,1,996114,The Red Tour
-Newark,United States,Prudential Center,1,2,"Ed Sheeran
-",Florida Georgia Line,,38065,38065,1,3565317,The Red Tour
-Newark,United States,Prudential Center,2,2,"Ed Sheeran
-",Florida Georgia Line,,38065,38065,1,3565317,The Red Tour
-Newark,United States,Prudential Center,3,2,"Ed Sheeran
-",Florida Georgia Line,,38065,38065,1,3565317,The Red Tour
-Miami,United States,American Airlines Arena,1,2,Ed Sheeran,Brett Eldredge,,12808,12808,1,1010175,The Red Tour
-Orlando,United States,Amway Center,1,2,Ed Sheeran,Brett Eldredge,,25617,25617,1,2054128,The Red Tour
-Orlando,United States,Amway Center,2,2,Ed Sheeran,Brett Eldredge,,25617,25617,1,2054128,The Red Tour
-Atlanta,United States,Philips Arena,1,2,Ed Sheeran,Brett Eldredge,,25471,25471,1,2048023,The Red Tour
-Atlanta,United States,Philips Arena,2,2,Ed Sheeran,Brett Eldredge,,25471,25471,1,2048023,The Red Tour
-Tampa,United States,Tampa Bay Times Forum,1,2,Ed Sheeran,Brett Eldredge,,14080,14080,1,1132095,The Red Tour
-Cleveland,United States,Quicken Loans Arena,1,2,Ed Sheeran,Brett Eldredge,,15336,15336,1,1247605,The Red Tour
-Indianapolis,United States,Bankers Life Fieldhouse,1,2,Ed Sheeran,Brett Eldredge,,13573,13573,1,1082042,The Red Tour
-Lexington,United States,Rupp Arena,1,2,Ed Sheeran,Brett Eldredge,,17003,17003,1,1342699,The Red Tour
-Detroit,United States,Ford Field,1,3,Ed Sheeran,Austin Mahone,Brett Eldredge,48265,48265,1,3969059,The Red Tour
-Louisville,United States,KFC Yum! Center,1,2,"Ed Sheeran
-",Florida Georgia Line,,15135,15135,1,1246491,The Red Tour
-Columbus,United States,Nationwide Arena,1,2,"Ed Sheeran
-",Florida Georgia Line,,14267,14267,1,1155170,The Red Tour
-Washington,United States,Verizon Center,1,2,Ed Sheeran,Brett Eldredge,,27619,27619,1,2489205,The Red Tour
-Washington,United States,Verizon Center,2,2,Ed Sheeran,Brett Eldredge,,27619,27619,1,2489205,The Red Tour
-Houston,United States,Toyota Center,1,2,Ed Sheeran,Brett Eldredge,,12467,12467,1,961422,The Red Tour
-Austin,United States,Frank Erwin Center,1,2,"Ed Sheeran
-",Florida Georgia Line,,11916,11916,1,935631,The Red Tour
-San Antonio,United States,AT&T Center,1,2,"Ed Sheeran
-",Florida Georgia Line,,13974,13974,1,1105253,The Red Tour
-Arlington,United States,Cowboys Stadium,1,3,Ed Sheeran,Austin Mahone,Florida Georgia Line,53020,53020,1,4589266,The Red Tour
-Glendale,United States,Jobing.com Arena,1,2,Ed Sheeran,Joel Crouse,,26705,26705,1,2239370,The Red Tour
-Glendale,United States,Jobing.com Arena,2,2,Ed Sheeran,Joel Crouse,,26705,26705,1,2239370,The Red Tour
-Salt Lake City,United States,EnergySolutions Arena,1,2,Ed Sheeran,Joel Crouse,,14007,14007,1,1139360,The Red Tour
-Denver,United States,Pepsi Center,1,2,Ed Sheeran,Joel Crouse,,13489,13489,1,1076069,The Red Tour
-Toronto,Canada,Rogers Centre,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,87627,87627,1,7863310,The Red Tour
-Toronto,Canada,Rogers Centre,2,3,Ed Sheeran,Austin Mahone,Joel Crouse,87627,87627,1,7863310,The Red Tour
-Winnipeg,Canada,Investors Group Field,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,33061,33061,1,3175430,The Red Tour
-Edmonton,Canada,Rexall Place,1,2,Ed Sheeran,Joel Crouse,,25663,25663,1,2379870,The Red Tour
-Edmonton,Canada,Rexall Place,2,2,Ed Sheeran,Joel Crouse,,25663,25663,1,2379870,The Red Tour
-Vancouver,Canada,BC Place Stadium,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,41142,41142,1,3974410,The Red Tour
-Pittsburgh,United States,Heinz Field,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,56047,56047,1,4718518,The Red Tour
-East Rutherford,United States,MetLife Stadium,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,52399,52399,1,4670011,The Red Tour
-Philadelphia,United States,Lincoln Financial Field,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,101277,101277,1,8822335,The Red Tour
-Philadelphia,United States,Lincoln Financial Field,2,3,Ed Sheeran,Austin Mahone,Joel Crouse,101277,101277,1,8822335,The Red Tour
-Foxborough,United States,Gillette Stadium,1,3,Ed Sheeran,Austin Mahone,Joel Crouse,110712,110712,1,9464063,The Red Tour
-Foxborough,United States,Gillette Stadium,2,3,Ed Sheeran,Austin Mahone,Joel Crouse,110712,110712,1,9464063,The Red Tour
-Des Moines,United States,Wells Fargo Arena,1,2,Ed Sheeran,Florida Georgia Line,,13368,13368,1,1075576,The Red Tour
-Kansas City,United States,Sprint Center,1,2,Ed Sheeran,Florida Georgia Line,,26412,26412,1,2093172,The Red Tour
-Kansas City,United States,Sprint Center,2,2,Ed Sheeran,Florida Georgia Line,,26412,26412,1,2093172,The Red Tour
-Wichita,United States,Intrust Bank Arena,1,2,Ed Sheeran,Casey James,,12231,12231,1,983882,The Red Tour
-Tulsa,United States,BOK Center,1,2,Ed Sheeran,Casey James,,10949,10949,1,868955,The Red Tour
-Chicago,United States,Soldier Field,1,3,Ed Sheeran,Austin Mahone,Casey James,50809,50809,1,4149148,The Red Tour
-San Diego,United States,Valley View Casino Center,1,2,Ed Sheeran,Casey James,,10872,10872,1,948541,The Red Tour
-Los Angeles,United States,Staples Center,1,2,Ed Sheeran,Casey James,,55829,55829,1,4734463,The Red Tour
-Los Angeles,United States,Staples Center,2,2,Ed Sheeran,Casey James,,55829,55829,1,4734463,The Red Tour
-Los Angeles,United States,Staples Center,3,2,Ed Sheeran,Casey James,,55829,55829,1,4734463,The Red Tour
-Los Angeles,United States,Staples Center,4,2,Ed Sheeran,Casey James,,55829,55829,1,4734463,The Red Tour
-Sacramento,United States,Sleep Train Arena,1,2,Ed Sheeran,Casey James,,12795,12795,1,1138103,The Red Tour
-Portland,United States,Moda Center,1,2,Ed Sheeran,Casey James,,13952,13952,1,1084760,The Red Tour
-Tacoma,United States,Tacoma Dome,1,2,Ed Sheeran,Casey James,,20348,20348,1,1584049,The Red Tour
-Fargo,United States,Fargodome,1,2,Ed Sheeran,Casey James,,21073,21073,1,1661578,The Red Tour
-Saint Paul,United States,Xcel Energy Center,1,2,Ed Sheeran,Casey James,,28920,28920,1,2320937,The Red Tour
-Saint Paul,United States,Xcel Energy Center,2,2,Ed Sheeran,Casey James,,28920,28920,1,2320937,The Red Tour
-Greensboro,United States,Greensboro Coliseum,1,2,Ed Sheeran,Casey James,,13650,13650,1,1109253,The Red Tour
-Raleigh,United States,PNC Arena,1,2,Ed Sheeran,Casey James,,13941,13941,1,1088612,The Red Tour
-Charlottesville,United States,John Paul Jones Arena,1,2,Ed Sheeran,Casey James,,12689,12689,1,997216,The Red Tour
-Nashville,United States,Bridgestone Arena,1,2,Ed Sheeran,Casey James,,41292,41292,1,3336545,The Red Tour
-Nashville,United States,Bridgestone Arena,2,2,Ed Sheeran,Casey James,,41292,41292,1,3336545,The Red Tour
-Nashville,United States,Bridgestone Arena,3,2,Ed Sheeran,Casey James,,41292,41292,1,3336545,The Red Tour
-Auckland,New Zealand,Vector Arena,1,1,Neon Trees,,,30799,30799,1,3100290,The Red Tour
-Auckland,New Zealand,Vector Arena,2,1,Neon Trees,,,30799,30799,1,3100290,The Red Tour
-Auckland,New Zealand,Vector Arena,3,1,Neon Trees,,,30799,30799,1,3100290,The Red Tour
-Sydney,Australia,Allianz Stadium,1,2,Guy Sebastian,Neon Trees,,40930,40930,1,4096060,The Red Tour
-Brisbane,Australia,Suncorp Stadium,1,2,Guy Sebastian,Neon Trees,,38907,38907,1,3895810,The Red Tour
-Perth,Australia,Perth Rectangular Stadium,1,2,Guy Sebastian,Neon Trees,,21827,21827,1,2364080,The Red Tour
-Melbourne,Australia,Etihad Stadium,1,2,Guy Sebastian,Neon Trees,,47257,47257,1,4547250,The Red Tour
-London,England,The O2 Arena,1,1,The Vamps,,,74740,74740,1,5829240,The Red Tour
-London,England,The O2 Arena,2,1,The Vamps,,,74740,74740,1,5829240,The Red Tour
-London,England,The O2 Arena,3,1,The Vamps,,,74740,74740,1,5829240,The Red Tour
-Berlin,Germany,O2 World,1,1,Andreas Bourani,,,10350,10350,1,755006,The Red Tour
-London,England,The O2 Arena,1,1,The Vamps,,,,,,,The Red Tour
-London,England,The O2 Arena,2,1,The Vamps,,,,,,,The Red Tour
-Shanghai,China,Mercedes-Benz Arena,1,,,,,12793,12793,1,1864934,The Red Tour
-Saitama,Japan,Saitama Super Arena,1,1,CTS,,,20046,20046,1,1837147,The Red Tour
-Jakarta,Indonesia,MEIS Ancol,1,1,Nicole Zefanya,,,8130,8130,1,1481473,The Red Tour
-Pasay,Philippines,Mall of Asia Arena,1,1,Meg Bucsit,,,9775,9775,1,1511662,The Red Tour
-Singapore,Singapore,Singapore Indoor Stadium,1,1,Imprompt-3,,,16344,16344,1,2524080,The Red Tour
-Kuala Lumpur,Malaysia,Putra Indoor Stadium,1,1,IamNeeta,,,7525,7525,1,998608,The Red Tour
-Singapore,Singapore,Singapore Indoor Stadium,1,1,Imprompt-3,,,,,,,The Red Tour
-Tokyo,Japan,Tokyo Dome,1,,,,,100320,100320,1,10586828,The 1989 World Tour
-Tokyo,Japan,Tokyo Dome,2,,,,,100320,100320,1,10586828,The 1989 World Tour
-Winchester,United States,City of Rock,1,,,,,,,,,The 1989 World Tour
-Bossier City,United States,CenturyLink Center,1,1,Vance Joy,,,12459,12459,1,1458197,The 1989 World Tour
-Baton Rouge,United States,LSU Tiger Stadium,1,2,Vance Joy,Shawn Mendes,,50227,50227,1,4119670,The 1989 World Tour
-Detroit,United States,Ford Field,1,2,Vance Joy,Shawn Mendes,,50703,50703,1,5999690,The 1989 World Tour
-Louisville,United States,KFC Yum! Center,1,1,Vance Joy,,,16242,16242,1,1863281,The 1989 World Tour
-Cleveland,United States,Quicken Loans Arena,1,1,Vance Joy,,,15503,15503,1,1732041,The 1989 World Tour
-Pittsburgh,United States,Heinz Field,1,2,Vance Joy,Shawn Mendes,,54801,54801,1,5836926,The 1989 World Tour
-Charlotte,United States,Time Warner Cable Arena,1,1,Vance Joy,,,15024,15024,1,1627798,The 1989 World Tour
-Raleigh,United States,PNC Arena,1,1,Vance Joy,,,13886,13886,1,1653762,The 1989 World Tour
-Philadelphia,United States,Lincoln Financial Field,1,2,Vance Joy,Shawn Mendes,,101052,101052,1,11987816,The 1989 World Tour
-Philadelphia,United States,Lincoln Financial Field,2,2,Vance Joy,Shawn Mendes,,101052,101052,1,11987816,The 1989 World Tour
-Cologne,Germany,Lanxess Arena,1,1,James Bay,,,29020,29020,1,2054690,The 1989 World Tour
-Cologne,Germany,Lanxess Arena,2,1,James Bay,,,29020,29020,1,2054690,The 1989 World Tour
-Amsterdam,Netherlands,Ziggo Dome,1,1,James Bay,,,11166,11166,1,800829,The 1989 World Tour
-Glasgow,Scotland,SSE Hydro,1,1,Vance Joy,,,11021,11021,1,1119300,The 1989 World Tour
-Manchester,England,Manchester Arena,1,1,Vance Joy,,,14773,14773,1,1478760,The 1989 World Tour
-London,England,Hyde Park,1,,,,,,,,,The 1989 World Tour
-Dublin,Ireland,3Arena,1,1,Vance Joy,,,25188,25188,1,1975510,The 1989 World Tour
-Dublin,Ireland,3Arena,2,1,Vance Joy,,,25188,25188,1,1975510,The 1989 World Tour
-Ottawa,Canada,Canadian Tire Centre,1,1,Vance Joy,,,13480,13480,1,1325480,The 1989 World Tour
-Montreal,Canada,Bell Centre,1,1,Vance Joy,,,14770,14770,1,1499040,The 1989 World Tour
-East Rutherford,United States,MetLife Stadium,1,3,Vance Joy,Shawn Mendes,Haim,110105,110105,1,13423858,The 1989 World Tour
-East Rutherford,United States,MetLife Stadium,2,3,Vance Joy,Shawn Mendes,Haim,110105,110105,1,13423858,The 1989 World Tour
-Washington,United States,Nationals Park,1,3,Vance Joy,Shawn Mendes,Haim,85014,85014,1,9730596,The 1989 World Tour
-Washington,United States,Nationals Park,2,3,Vance Joy,Shawn Mendes,Haim,85014,85014,1,9730596,The 1989 World Tour
-Chicago,United States,Soldier Field,1,3,Vance Joy,Shawn Mendes,Haim,110109,110109,1,11469887,The 1989 World Tour
-Chicago,United States,Soldier Field,2,3,Vance Joy,Shawn Mendes,Haim,110109,110109,1,11469887,The 1989 World Tour
-Foxborough,United States,Gillette Stadium,1,3,Vance Joy,Shawn Mendes,Haim,116849,116849,1,12533166,The 1989 World Tour
-Foxborough,United States,Gillette Stadium,2,3,Vance Joy,Shawn Mendes,Haim,116849,116849,1,12533166,The 1989 World Tour
-Vancouver,Canada,BC Place,1,2,Vance Joy,Shawn Mendes,,41463,41463,1,4081820,The 1989 World Tour
-Edmonton,Canada,Rexall Place,1,1,Vance Joy,,,26534,26534,1,2387080,The 1989 World Tour
-Edmonton,Canada,Rexall Place,2,1,Vance Joy,,,26534,26534,1,2387080,The 1989 World Tour
-Seattle,United States,CenturyLink Field,1,2,Vance Joy,Shawn Mendes,,55711,55711,1,6050643,The 1989 World Tour
-Santa Clara,United States,Levi's Stadium,1,2,Vance Joy,Shawn Mendes,,102139,102139,1,13031146,The 1989 World Tour
-Santa Clara,United States,Levi's Stadium,2,2,Vance Joy,Shawn Mendes,,102139,102139,1,13031146,The 1989 World Tour
-Glendale,United States,Gila River Arena,1,1,Vance Joy,,,26520,26520,1,3029628,The 1989 World Tour
-Glendale,United States,Gila River Arena,2,1,Vance Joy,,,26520,26520,1,3029628,The 1989 World Tour
-Los Angeles,United States,Staples Center,1,2,Vance Joy,Haim,,70563,70563,1,8961681,The 1989 World Tour
-Los Angeles,United States,Staples Center,2,2,Vance Joy,Haim,,70563,70563,1,8961681,The 1989 World Tour
-Los Angeles,United States,Staples Center,3,2,Vance Joy,Haim,,70563,70563,1,8961681,The 1989 World Tour
-Los Angeles,United States,Staples Center,4,2,Vance Joy,Haim,,70563,70563,1,8961681,The 1989 World Tour
-Los Angeles,United States,Staples Center,5,2,Vance Joy,Haim,,70563,70563,1,8961681,The 1989 World Tour
-San Diego,United States,Petco Park,1,2,Vance Joy,Shawn Mendes,,44710,44710,1,5475237,The 1989 World Tour
-Salt Lake City,United States,EnergySolutions Arena,1,1,Vance Joy,,,14131,14131,1,1589686,The 1989 World Tour
-Denver,United States,Pepsi Center,1,1,Vance Joy,,,27126,27126,1,2868991,The 1989 World Tour
-Denver,United States,Pepsi Center,2,1,Vance Joy,,,27126,27126,1,2868991,The 1989 World Tour
-Houston,United States,Minute Maid Park,1,2,Vance Joy,Shawn Mendes,,40122,40122,1,5202196,The 1989 World Tour
-Saint Paul,United States,Xcel Energy Center,1,1,Vance Joy,,,45126,45126,1,5514863,The 1989 World Tour
-Saint Paul,United States,Xcel Energy Center,2,1,Vance Joy,,,45126,45126,1,5514863,The 1989 World Tour
-Saint Paul,United States,Xcel Energy Center,3,1,Vance Joy,,,45126,45126,1,5514863,The 1989 World Tour
-Indianapolis,United States,Bankers Life Fieldhouse,1,1,Vance Joy,,,14010,14010,1,1550268,The 1989 World Tour
-Columbus,United States,Nationwide Arena,1,1,Vance Joy,,,29936,29936,1,3369693,The 1989 World Tour
-Columbus,United States,Nationwide Arena,2,1,Vance Joy,,,29936,29936,1,3369693,The 1989 World Tour
-Kansas City,United States,Sprint Center,1,1,Vance Joy,,,27857,27857,1,2967558,The 1989 World Tour
-Kansas City,United States,Sprint Center,2,1,Vance Joy,,,27857,27857,1,2967558,The 1989 World Tour
-Nashville,United States,Bridgestone Arena,1,2,Vance Joy,Haim,,28917,28917,1,3354844,The 1989 World Tour
-Nashville,United States,Bridgestone Arena,2,2,Vance Joy,Haim,,28917,28917,1,3354844,The 1989 World Tour
-St. Louis,United States,Scottrade Center,1,2,Vance Joy,Haim,,29688,29688,1,3452940,The 1989 World Tour
-St. Louis,United States,Scottrade Center,2,2,Vance Joy,Haim,,29688,29688,1,3452940,The 1989 World Tour
-Toronto,Canada,Rogers Centre,1,2,Vance Joy,Shawn Mendes,,99283,99283,1,8670990,The 1989 World Tour
-Toronto,Canada,Rogers Centre,2,2,Vance Joy,Shawn Mendes,,99283,99283,1,8670990,The 1989 World Tour
-Des Moines,United States,Wells Fargo Arena,1,1,Vance Joy,,,13969,13969,1,1566321,The 1989 World Tour
-Omaha,United States,CenturyLink Center Omaha,1,1,Vance Joy,,,29622,29622,1,3121421,The 1989 World Tour
-Omaha,United States,CenturyLink Center Omaha,2,1,Vance Joy,,,29622,29622,1,3121421,The 1989 World Tour
-Fargo,United States,Fargodome,1,1,Vance Joy,,,21067,21067,1,2219188,The 1989 World Tour
-Arlington,United States,AT&T Stadium,1,2,Vance Joy,Shawn Mendes,,62630,62630,1,7396733,The 1989 World Tour
-Lexington,United States,Rupp Arena,1,1,Vance Joy,,,17084,17084,1,1870471,The 1989 World Tour
-Greensboro,United States,Greensboro Coliseum,1,1,Vance Joy,,,15079,15079,1,1662171,The 1989 World Tour
-Atlanta,United States,Georgia Dome,1,2,Vance Joy,Shawn Mendes,,56046,56046,1,6034846,The 1989 World Tour
-Miami,United States,American Airlines Arena,1,1,Vance Joy,,,14044,14044,1,1527919,The 1989 World Tour
-Tampa,United States,Raymond James Stadium,1,2,Vance Joy,Shawn Mendes,,56987,56987,1,6202515,The 1989 World Tour
-Singapore,Singapore,Singapore Indoor Stadium,1,,,,,17726,17726,1,3217569,The 1989 World Tour
-Singapore,Singapore,Singapore Indoor Stadium,2000,,,,,17726,17726,1,3217569,The 1989 World Tour
-Shanghai,China,Mercedes-Benz Arena,1,,,,,37758,37758,1,5917348,The 1989 World Tour
-Shanghai,China,Mercedes-Benz Arena,2,,,,,37758,37758,1,5917348,The 1989 World Tour
-Shanghai,China,Mercedes-Benz Arena,3,,,,,37758,37758,1,5917348,The 1989 World Tour
-Sydney,Australia,ANZ Stadium,1,1,Vance Joy,,,75980,75980,1,6571683,The 1989 World Tour
-Brisbane,Australia,Suncorp Stadium,1,1,Vance Joy,,,46881,46881,1,4759471,The 1989 World Tour
-Adelaide,Australia,Adelaide Entertainment Centre,1,1,Vance Joy,,,20090,20090,1,2407499,The 1989 World Tour
-Adelaide,Australia,Adelaide Entertainment Centre,2,1,Vance Joy,,,20090,20090,1,2407499,The 1989 World Tour
-Melbourne,Australia,AAMI Park,1,1,Vance Joy,,,98136,98136,1,10421553,The 1989 World Tour
-Melbourne,Australia,AAMI Park,2,1,Vance Joy,,,98136,98136,1,10421553,The 1989 World Tour
-Melbourne,Australia,AAMI Park,3,1,Vance Joy,,,98136,98136,1,10421553,The 1989 World Tour
-Glendale,United States,University of Phoenix Stadium,1,2,Camila Cabello,Charli XCX,,59157,59157,1,7214478,Reputation Stadium Tour
-Santa Clara,United States,Levi's Stadium,1,2,Camila Cabello,Charli XCX,,107550,107550,1,14006963,Reputation Stadium Tour
-Santa Clara,United States,Levi's Stadium,2,2,Camila Cabello,Charli XCX,,107550,107550,1,14006963,Reputation Stadium Tour
-Pasadena,United States,Rose Bowl,1,2,Camila Cabello,Charli XCX,,118084,118084,1,16251980,Reputation Stadium Tour
-Pasadena,United States,Rose Bowl,2,2,Camila Cabello,Charli XCX,,118084,118084,1,16251980,Reputation Stadium Tour
-Seattle,United States,CenturyLink Field,1,2,Camila Cabello,Charli XCX,,56021,56021,1,8672219,Reputation Stadium Tour
-Denver,United States,Sports Authority Field at Mile High,1,2,Camila Cabello,Charli XCX,,57140,57140,1,7926366,Reputation Stadium Tour
-Chicago,United States,Soldier Field,1,2,Camila Cabello,Charli XCX,,105208,105208,1,14576697,Reputation Stadium Tour
-Chicago,United States,Soldier Field,2,2,Camila Cabello,Charli XCX,,105208,105208,1,14576697,Reputation Stadium Tour
-Manchester,England,Etihad Stadium,1,2,Camila Cabello,Charli XCX,,77258,77258,1,6169724,Reputation Stadium Tour
-Manchester,England,Etihad Stadium,2,2,Camila Cabello,Charli XCX,,77258,77258,1,6169724,Reputation Stadium Tour
-Dublin,Ireland,Croke Park,1,2,Camila Cabello,Charli XCX,,133034,133034,1,8567769,Reputation Stadium Tour
-Dublin,Ireland,Croke Park,2,2,Camila Cabello,Charli XCX,,133034,133034,1,8567769,Reputation Stadium Tour
-London,England,Wembley Stadium,1,2,Camila Cabello,Charli XCX,,143427,143427,1,12214933,Reputation Stadium Tour
-London,England,Wembley Stadium,2,2,Camila Cabello,Charli XCX,,143427,143427,1,12214933,Reputation Stadium Tour
-Louisville,United States,Cardinal Stadium,1,2,Camila Cabello,Charli XCX,,52138,52138,1,4928219,Reputation Stadium Tour
-Columbus,United States,Ohio Stadium,1,2,Camila Cabello,Charli XCX,,62897,62897,1,6606529,Reputation Stadium Tour
-Landover,United States,FedExField,1,2,Camila Cabello,Charli XCX,,95672,95672,1,11396004,Reputation Stadium Tour
-Landover,United States,FedExField,2,2,Camila Cabello,Charli XCX,,95672,95672,1,11396004,Reputation Stadium Tour
-Philadelphia,United States,Lincoln Financial Field,1,2,Camila Cabello,Charli XCX,,107378,107378,1,11951047,Reputation Stadium Tour
-Philadelphia,United States,Lincoln Financial Field,2,2,Camila Cabello,Charli XCX,,107378,107378,1,11951047,Reputation Stadium Tour
-Cleveland,United States,FirstEnergy Stadium,1,2,Camila Cabello,Charli XCX,,51323,51323,1,5148757,Reputation Stadium Tour
-East Rutherford,United States,MetLife Stadium,1,2,Camila Cabello,Charli XCX,,165654,165654,1,22031386,Reputation Stadium Tour
-East Rutherford,United States,MetLife Stadium,2,2,Camila Cabello,Charli XCX,,165654,165654,1,22031386,Reputation Stadium Tour
-East Rutherford,United States,MetLife Stadium,3,2,Camila Cabello,Charli XCX,,165654,165654,1,22031386,Reputation Stadium Tour
-Foxborough,United States,Gillette Stadium,1,2,Camila Cabello,Charli XCX,,174764,174764,1,21779846,Reputation Stadium Tour
-Foxborough,United States,Gillette Stadium,2,2,Camila Cabello,Charli XCX,,174764,174764,1,21779846,Reputation Stadium Tour
-Foxborough,United States,Gillette Stadium,3,2,Camila Cabello,Charli XCX,,174764,174764,1,21779846,Reputation Stadium Tour
-Toronto,Canada,Rogers Centre,1,2,Camila Cabello,Charli XCX,,100310,100310,1,11177000,Reputation Stadium Tour
-Toronto,Canada,Rogers Centre,2,2,Camila Cabello,Charli XCX,,100310,100310,1,11177000,Reputation Stadium Tour
-Pittsburgh,United States,Heinz Field,1,2,Camila Cabello,Charli XCX,,56445,56445,1,6230876,Reputation Stadium Tour
-Atlanta,United States,Mercedes-Benz Stadium,1,2,Camila Cabello,Charli XCX,,116746,116746,1,18089415,Reputation Stadium Tour
-Atlanta,United States,Mercedes-Benz Stadium,2,2,Camila Cabello,Charli XCX,,116746,116746,1,18089415,Reputation Stadium Tour
-Tampa,United States,Raymond James Stadium,1,2,Camila Cabello,Charli XCX,,55909,55909,1,7244264,Reputation Stadium Tour
-Miami Gardens,United States,Hard Rock Stadium,1,2,Camila Cabello,Charli XCX,,47818,47818,1,7072164,Reputation Stadium Tour
-Nashville,United States,Nissan Stadium,1,2,Camila Cabello,Charli XCX,,56112,56112,1,9007179,Reputation Stadium Tour
-Detroit,United States,Ford Field,1,2,Camila Cabello,Charli XCX,,49464,49464,1,6597852,Reputation Stadium Tour
-Minneapolis,United States,U.S. Bank Stadium,1,2,Camila Cabello,Charli XCX,,98774,98774,1,10242024,Reputation Stadium Tour
-Minneapolis,United States,U.S. Bank Stadium,2,2,Camila Cabello,Charli XCX,,98774,98774,1,10242024,Reputation Stadium Tour
-Kansas City,United States,Arrowhead Stadium,1,2,Camila Cabello,Charli XCX,,58611,58611,1,6730138,Reputation Stadium Tour
-Indianapolis,United States,Lucas Oil Stadium,1,2,Camila Cabello,Charli XCX,,55729,55729,1,6531245,Reputation Stadium Tour
-St. Louis,United States,The Dome at America's Center,1,2,Camila Cabello,Charli XCX,,47831,47831,1,4884054,Reputation Stadium Tour
-New Orleans,United States,Mercedes-Benz Superdome,1,2,Camila Cabello,Charli XCX,,53172,53172,1,6491546,Reputation Stadium Tour
-Houston,United States,NRG Stadium,1,2,Camila Cabello,Charli XCX,,53800,53800,1,9350275,Reputation Stadium Tour
-Arlington,United States,AT&T Stadium,1,2,Camila Cabello,Charli XCX,,105002,105002,1,15006157,Reputation Stadium Tour
-Arlington,United States,AT&T Stadium,2,2,Camila Cabello,Charli XCX,,105002,105002,1,15006157,Reputation Stadium Tour
-Perth,Australia,Optus Stadium,1,2,Charli XCX,Broods,,50891,50891,1,4153658,Reputation Stadium Tour
-Melbourne,Australia,Marvel Stadium,1,2,Charli XCX,Broods,,63027,63027,1,6755570,Reputation Stadium Tour
-Sydney,Australia,ANZ Stadium,1,2,Charli XCX,Broods,,72805,72805,1,7686564,Reputation Stadium Tour
-Brisbane,Australia,The Gabba,1,2,Charli XCX,Broods,,43907,43907,1,4338127,Reputation Stadium Tour
-Auckland,New Zealand,Mount Smart Stadium,1,2,Charli XCX,Broods,,35749,35749,1,3617593,Reputation Stadium Tour
-Tokyo,Japan,Tokyo Dome,1,1,Charli XCX,,,100109,100109,1,14859847,Reputation Stadium Tour
-Tokyo,Japan,Tokyo Dome,2,1,Charli XCX,,,100109,100109,1,14859847,Reputation Stadium Tour
-Nampa,United States,Ford Arena,1,2,Gloriana,Kellie Pickler,,8970,8970,1,413622,Fearless Tour
-East Rutherford,United States,MetLife Stadium,2,2,Camila Cabello,Charli XCX,,165654,165654,1,22031386,Reputation Stadium Tour
+City,Country,Venue,CityNight,NumOpeningActs,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
+Evansville,United States,Roberts Municipal Stadium,1,2,7463,7463,1,360617,Fearless Tour
+Jonesboro,United States,Convocation Center,1,2,7822,7822,1,340328,Fearless Tour
+St. Louis,United States,Scottrade Center,1,2,13764,13764,1,650420,Fearless Tour
+Alexandria,United States,Bishop Ireton High School,1,2,,,,,Fearless Tour
+North Charleston,United States,North Charleston Coliseum,1,2,8751,8751,1,398154,Fearless Tour
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,1,2,11072,11072,1,507012,Fearless Tour
+Biloxi,United States,Mississippi Coast Coliseum,1,2,9436,9436,1,437313,Fearless Tour
+London,England,Shepherd's Bush Empire,1,,6789,6789,1,401328,Fearless Tour
+London,England,Shepherd's Bush Empire,2,,6789,6789,1,401328,Fearless Tour
+Spokane,United States,Spokane Arena,1,2,10798,10798,1,482146,Fearless Tour
+Seattle,United States,KeyArena,1,2,12061,12061,1,528637,Fearless Tour
+Portland,United States,Rose Garden Arena,1,2,13226,13226,1,613284,Fearless Tour
+Nampa,United States,Ford Arena,1,2,8970,8970,1,413622,Fearless Tour
+Glendale,United States,Jobing.com Arena,1,2,13052,13052,1,647923,Fearless Tour
+Los Angeles,United States,Staples Center,1,2,13648,13648,1,720940,Fearless Tour
+Paradise,United States,Mandalay Bay Events Center,1,2,8311,8311,1,551051,Fearless Tour
+San Diego,United States,Valley View Casino Center,1,2,10174,10174,1,502689,Fearless Tour
+Salt Lake City,United States,EnergySolutions Arena,1,2,13042,13042,1,555207,Fearless Tour
+New Brockton,United States,BamaJam Farms,1,,,,,,Fearless Tour
+Columbia,United States,Merriweather Post Pavilion,1,2,17619,17619,1,608438,Fearless Tour
+Greensboro,United States,Greensboro Coliseum,1,2,14641,14641,1,690959,Fearless Tour
+Oshkosh,United States,Ford Festival Park,1,,,,,,Fearless Tour
+Cadott,United States,Amphitheatre Concert Grounds,1,,,,,,Fearless Tour
+Calgary,Canada,Pengrowth Saddledome,1,2,,,,,Fearless Tour
+Edmonton,Canada,Commonwealth Stadium,1,,33910,44500,0,2540906,Fearless Tour
+Craven,Canada,Big Valley Park,1,,,,,,Fearless Tour
+Winnipeg,Canada,MTS Centre,1,2,11369,11369,1,512487,Fearless Tour
+Twin Lakes,United States,Country Thunder Festival,1,,,,,,Fearless Tour
+Columbus,United States,Value City Arena,1,2,,,,,Fearless Tour
+Charleston,United States,Charleston Civic Center,1,2,,,,,Fearless Tour
+Cheyenne,United States,Cheyenne Frontier Days Arena,1,1,,,,,Fearless Tour
+Rapid City,United States,Barnett Arena,1,2,,,,,Fearless Tour
+Minot,United States,North Dakota State Fair Grandstand,1,,,,,,Fearless Tour
+Philadelphia,United States,Wachovia Spectrum,1,2,,,,,Fearless Tour
+Detroit Lakes,United States,Soo Pass Ranch,1,,,,,,Fearless Tour
+Omaha,United States,Qwest Center Omaha,1,2,,,,,Fearless Tour
+Chelmsford,England,Hylands Park,1,,,,,,Fearless Tour
+Weston-under-Lizard,England,Weston Park,1,,,,,,Fearless Tour
+New York City,United States,Madison Square Garden,1,2,13597,13597,1,976062,Fearless Tour
+Montville,United States,Mohegan Sun Arena,1,2,7507,7507,1,296306,Fearless Tour
+University Park,United States,Bryce Jordan Center,1,2,,,,,Fearless Tour
+Louisville,United States,Freedom Hall,1,2,,,,,Fearless Tour
+Duluth,United States,Arena at Gwinnett Center,1,2,,,,,Fearless Tour
+Greenville,United States,Bi-Lo Center,1,2,,,,,Fearless Tour
+Charlotte,United States,Time Warner Cable Arena,1,2,,,,,Fearless Tour
+Lafayette,United States,Cajundome,1,2,,,,,Fearless Tour
+Bossier City,United States,CenturyTel Center,1,2,,,,,Fearless Tour
+Birmingham,United States,BJCC Arena,1,2,,,,,Fearless Tour
+Nashville,United States,Bridgestone Arena,1,2,14269,14269,1,642387,Fearless Tour
+Dallas,United States,American Airlines Center,1,2,13794,13794,1,628062,Fearless Tour
+North Little Rock,United States,Verizon Arena,1,2,13978,13978,1,654089,Fearless Tour
+Tulsa,United States,BOK Center,1,2,,,,,Fearless Tour
+Pittsburgh,United States,Mellon Arena,1,2,,,,,Fearless Tour
+Grand Rapids,United States,Van Andel Arena,1,2,,,,,Fearless Tour
+Cleveland,United States,Quicken Loans Arena,1,2,15524,15524,1,743492,Fearless Tour
+Indianapolis,United States,Conseco Fieldhouse,1,2,13373,13373,1,634876,Fearless Tour
+Rosemont,United States,Allstate Arena,1,2,26265,26265,1,1150896,Fearless Tour
+Rosemont,United States,Allstate Arena,2,2,26265,26265,1,1150896,Fearless Tour
+Minneapolis,United States,Target Center,1,2,13563,13563,1,623975,Fearless Tour
+London,England,Wembley Arena,1,1,,,,,Fearless Tour
+Manchester,England,Manchester Evening News Arena,1,1,,,,,Fearless Tour
+Brisbane,Australia,Brisbane Entertainment Centre,1,1,11334,11334,1,956505,Fearless Tour
+Sydney,Australia,Acer Arena,1,1,27030,27030,1,2030640,Fearless Tour
+Sydney,Australia,Acer Arena,2,1,27030,27030,1,2030640,Fearless Tour
+Newcastle,Australia,Newcastle Entertainment Centre,1,1,7180,7180,1,555396,Fearless Tour
+Melbourne,Australia,Rod Laver Arena,1,1,23493,23493,1,1627510,Fearless Tour
+Melbourne,Australia,Rod Laver Arena,2,1,23493,23493,1,1627510,Fearless Tour
+Adelaide,Australia,Adelaide Entertainment Centre,1,1,9066,9066,1,585352,Fearless Tour
+Tokyo,Japan,Zepp Tokyo,1,,,,,,Fearless Tour
+Tampa,United States,St. Pete Times Forum,1,2,13861,13861,1,793049,Fearless Tour
+Orlando,United States,Amway Arena,1,2,11101,11101,1,598581,Fearless Tour
+Sunrise,United States,BankAtlantic Center,1,2,13453,13453,1,777442,Fearless Tour
+Austin,United States,Frank Erwin Center,1,2,11928,11928,1,642705,Fearless Tour
+Dallas,United States,American Airlines Center,1,2,14022,14022,1,742954,Fearless Tour
+Corpus Christi,United States,American Bank Center Arena,1,2,8423,8423,1,501169,Fearless Tour
+Philadelphia,United States,Wells Fargo Center,1,2,30360,30360,1,2002321,Fearless Tour
+Philadelphia,United States,Wells Fargo Center,2,2,30360,30360,1,2002321,Fearless Tour
+Charlottesville,United States,John Paul Jones Arena,1,2,11858,11858,1,664305,Fearless Tour
+Auburn Hills,United States,The Palace of Auburn Hills,1,2,29125,29125,1,1711591,Fearless Tour
+Auburn Hills,United States,The Palace of Auburn Hills,2,2,29125,29125,1,1711591,Fearless Tour
+Cincinnati,United States,U.S. Bank Arena,1,2,11208,11208,1,645592,Fearless Tour
+Oklahoma City,United States,Ford Center,1,2,11795,11795,1,675184,Fearless Tour
+Wichita,United States,Intrust Bank Arena,1,2,11208,11208,1,610801,Fearless Tour
+Kansas City,United States,Sprint Center,1,2,13781,13781,1,761110,Fearless Tour
+Denver,United States,Pepsi Center,1,2,25991,25991,1,1497135,Fearless Tour
+Denver,United States,Pepsi Center,2,2,25991,25991,1,1497135,Fearless Tour
+Fresno,United States,Save Mart Center,1,2,11706,11706,1,649488,Fearless Tour
+San Jose,United States,HP Pavilion,1,2,12744,12744,1,716726,Fearless Tour
+Los Angeles,United States,Staples Center,1,2,27518,27518,1,1736197,Fearless Tour
+Los Angeles,United States,Staples Center,2,2,27518,27518,1,1736197,Fearless Tour
+Lexington,United States,Rupp Arena,1,2,17966,17966,1,1024223,Fearless Tour
+Columbia,United States,Colonial Life Arena,1,2,13429,13429,1,755475,Fearless Tour
+Raleigh,United States,RBC Center,1,2,13895,13895,1,752303,Fearless Tour
+Des Moines,United States,Wells Fargo Arena,1,2,13264,13264,1,738280,Fearless Tour
+Saint Paul,United States,Xcel Energy Center,1,2,14914,14914,1,846111,Fearless Tour
+Moline,United States,iWireless Center,1,2,10641,10641,1,610668,Fearless Tour
+Newark,United States,Prudential Center,1,2,26065,26065,1,1742669,Fearless Tour
+Newark,United States,Prudential Center,2,2,26065,26065,1,1742669,Fearless Tour
+Uniondale,United States,Nassau Veterans Memorial Coliseum,1,2,25831,25831,1,1713529,Fearless Tour
+Uniondale,United States,Nassau Veterans Memorial Coliseum,2,2,25831,25831,1,1713529,Fearless Tour
+Ottawa,Canada,Scotiabank Place,1,2,13376,13376,1,873206,Fearless Tour
+Toronto,Canada,Air Canada Centre,1,2,30458,30458,1,2497690,Fearless Tour
+Toronto,Canada,Air Canada Centre,2,2,30458,30458,1,2497690,Fearless Tour
+Houston,United States,Toyota Center,1,2,23493,23493,1,1290926,Fearless Tour
+Houston,United States,Toyota Center,2,2,23493,23493,1,1290926,Fearless Tour
+Baton Rouge,United States,Tiger Stadium,1,,,,,,Fearless Tour
+Washington,United States,Verizon Center,1,2,27290,27290,1,1824743,Fearless Tour
+Washington,United States,Verizon Center,2,2,27290,27290,1,1824743,Fearless Tour
+Foxborough,United States,Gillette Stadium,1,3,56868,56868,1,3726157,Fearless Tour
+Nassau,The Bahamas,Imperial Ballroom,1,2,,,,,Fearless Tour
+Cavendish,Canada,Cavendish Beach Festival Grounds,1,,35000,35000,1,,Fearless Tour
+Singapore,Singapore,Singapore Indoor Stadium,1,1,8964,8964,1,916850,Speak Now World Tour
+Seoul,South Korea,Olympic Gymnastics Arena,1,,4725,4725,1,385374,Speak Now World Tour
+Osaka,Japan,Osaka-Jo Hall,1,,6953,6953,1,758113,Speak Now World Tour
+Tokyo,Japan,Nippon Budokan,1,,15955,15955,1,1738227,Speak Now World Tour
+Tokyo,Japan,Nippon Budokan,2,,15955,15955,1,1738227,Speak Now World Tour
+Quezon City,Philippines,Smart Araneta Coliseum,1,1,12667,12667,1,859037,Speak Now World Tour
+Hong Kong,Hong Kong,AsiaWorldñArena,1,1,12573,12573,1,1030633,Speak Now World Tour
+Brussels,Belgium,Forest National,1,1,4622,4622,1,219212,Speak Now World Tour
+Rotterdam,Netherlands,Sportpaleis van Ahoy,1,1,4799,4799,1,248314,Speak Now World Tour
+Oslo,Norway,Oslo Spektrum,1,,8650,8650,1,815246,Speak Now World Tour
+Oberhausen,Germany,Kˆnig Pilsener Arena,1,1,6082,6082,1,370028,Speak Now World Tour
+Milan,Italy,Mediolanum Forum,1,1,3421,5585,0,153303,Speak Now World Tour
+Paris,France,ZÈnith de Paris,1,,3598,8500,0,201781,Speak Now World Tour
+Madrid,Spain,Palacio de los Deportes,1,1,3962,3962,1,251864,Speak Now World Tour
+Birmingham,England,LG Arena,1,1,9339,9339,1,508854,Speak Now World Tour
+Belfast,Northern Ireland,Odyssey Arena,1,1,8058,8058,1,379001,Speak Now World Tour
+Dublin,Ireland,The O2,1,1,8681,8681,1,419806,Speak Now World Tour
+Manchester,England,Manchester Evening News Arena,1,1,10488,11622,0,580558,Speak Now World Tour
+London,England,The O2 Arena,1,1,15265,15681,0,891152,Speak Now World Tour
+Omaha,United States,Qwest Center Omaha,1,1,26992,26992,1,1717104,Speak Now World Tour
+Omaha,United States,Qwest Center Omaha,2,1,26992,26992,1,1717104,Speak Now World Tour
+Des Moines,United States,Wells Fargo Arena,1,1,13149,13149,1,862771,Speak Now World Tour
+Sunrise,United States,BankAtlantic Center,1,1,24077,24077,1,1582951,Speak Now World Tour
+Sunrise,United States,BankAtlantic Center,2,1,24077,24077,1,1582951,Speak Now World Tour
+Orlando,United States,Amway Center,1,1,12262,12262,1,791980,Speak Now World Tour
+Columbus,United States,Nationwide Arena,1,1,14817,14817,1,955259,Speak Now World Tour
+Milwaukee,United States,Bradley Center,1,1,13748,13748,1,897042,Speak Now World Tour
+Detroit,United States,Ford Field,1,1,47992,47992,1,3453549,Speak Now World Tour
+Saint Paul,United States,Xcel Energy Center,1,1,28977,28977,1,1913737,Speak Now World Tour
+Saint Paul,United States,Xcel Energy Center,2,1,28977,28977,1,1913737,Speak Now World Tour
+Pittsburgh,United States,Heinz Field,1,1,52009,52009,1,4009118,Speak Now World Tour
+Buffalo,United States,First Niagara Center,1,1,14487,14487,1,966749,Speak Now World Tour
+Hartford,United States,XL Center,1,1,12436,12436,1,810165,Speak Now World Tour
+Foxborough,United States,Gillette Stadium,1,1,110800,110800,1,8026350,Speak Now World Tour
+Foxborough,United States,Gillette Stadium,2,1,110800,110800,1,8026350,Speak Now World Tour
+Greensboro,United States,Greensboro Coliseum,1,1,14789,14789,1,990701,Speak Now World Tour
+Knoxville,United States,ThompsonñBoling Arena,1,1,13754,13754,1,903875,Speak Now World Tour
+Montreal,Canada,Bell Centre,1,1,13439,13439,1,1254230,Speak Now World Tour
+Toronto,Canada,Air Canada Centre,1,1,30144,30144,1,3036000,Speak Now World Tour
+Toronto,Canada,Air Canada Centre,2,1,30144,30144,1,3036000,Speak Now World Tour
+Newark,United States,Prudential Center,1,1,51487,51487,1,3875463,Speak Now World Tour
+Newark,United States,Prudential Center,2,1,51487,51487,1,3875463,Speak Now World Tour
+Newark,United States,Prudential Center,3,1,51487,51487,1,3875463,Speak Now World Tour
+Newark,United States,Prudential Center,4,1,51487,51487,1,3875463,Speak Now World Tour
+Grand Rapids,United States,Van Andel Arena,1,1,11012,11012,1,724854,Speak Now World Tour
+Indianapolis,United States,Conseco Fieldhouse,1,1,13329,13329,1,877175,Speak Now World Tour
+Cleveland,United States,Quicken Loans Arena,1,1,14873,14873,1,976954,Speak Now World Tour
+Washington,United States,Verizon Center,1,1,29303,29303,1,2068789,Speak Now World Tour
+Washington,United States,Verizon Center,2,1,29303,29303,1,2068789,Speak Now World Tour
+Philadelphia,United States,Lincoln Financial Field,1,1,51395,51395,1,4268678,Speak Now World Tour
+Rosemont,United States,Allstate Arena,1,1,26112,26112,1,1909603,Speak Now World Tour
+Rosemont,United States,Allstate Arena,2,1,26112,26112,1,1909603,Speak Now World Tour
+St. Louis,United States,Scottrade Center,1,1,27965,27965,1,1850159,Speak Now World Tour
+St. Louis,United States,Scottrade Center,2,1,27965,27965,1,1850159,Speak Now World Tour
+Edmonton,Canada,Rexall Place,1,1,25336,25336,1,2136270,Speak Now World Tour
+Edmonton,Canada,Rexall Place,2,1,25336,25336,1,2136270,Speak Now World Tour
+Los Angeles,United States,Staples Center,1,1,54900,54900,1,3927154,Speak Now World Tour
+Los Angeles,United States,Staples Center,2,1,54900,54900,1,3927154,Speak Now World Tour
+Los Angeles,United States,Staples Center,3,1,54900,54900,1,3927154,Speak Now World Tour
+Los Angeles,United States,Staples Center,4,1,54900,54900,1,3927154,Speak Now World Tour
+San Jose,United States,HP Pavilion,1,1,24827,24827,1,1825448,Speak Now World Tour
+San Jose,United States,HP Pavilion,2,1,24827,24827,1,1825448,Speak Now World Tour
+Sacramento,United States,Power Balance Pavilion,1,1,12432,12432,1,934326,Speak Now World Tour
+Portland,United States,Rose Garden Arena,1,1,13610,13610,1,903445,Speak Now World Tour
+Tacoma,United States,Tacoma Dome,1,1,19904,19904,1,1289430,Speak Now World Tour
+Vancouver,Canada,Rogers Arena,1,1,26030,26030,1,2190680,Speak Now World Tour
+Vancouver,Canada,Rogers Arena,2,1,26030,26030,1,2190680,Speak Now World Tour
+Nashville,United States,Bridgestone Arena,1,1,28178,28178,1,1841134,Speak Now World Tour
+Nashville,United States,Bridgestone Arena,2,1,28178,28178,1,1841134,Speak Now World Tour
+Bossier City,United States,CenturyLink Center,1,1,11510,11510,1,728546,Speak Now World Tour
+Tulsa,United States,BOK Center,1,1,12546,12546,1,907573,Speak Now World Tour
+Kansas City,United States,Arrowhead Stadium,1,1,48562,48562,1,3148046,Speak Now World Tour
+Denver,United States,Pepsi Center,1,1,12908,12908,1,834916,Speak Now World Tour
+Salt Lake City,United States,EnergySolutions Arena,1,1,13720,13720,1,896946,Speak Now World Tour
+Atlanta,United States,Philips Arena,1,1,26244,26244,1,1726661,Speak Now World Tour
+Atlanta,United States,Philips Arena,2,1,26244,26244,1,1726661,Speak Now World Tour
+North Little Rock,United States,Verizon Arena,1,1,13566,13566,1,856123,Speak Now World Tour
+New Orleans,United States,New Orleans Arena,1,1,12943,12943,1,830289,Speak Now World Tour
+Arlington,United States,Cowboys Stadium,1,1,55451,55451,1,4337062,Speak Now World Tour
+Louisville,United States,KFC Yum! Center,1,1,14848,14848,1,1003828,Speak Now World Tour
+Lubbock,United States,United Spirit Arena,1,1,10419,10419,1,710426,Speak Now World Tour
+Oklahoma City,United States,Chesapeake Energy Arena,1,1,11592,11592,1,758364,Speak Now World Tour
+San Diego,United States,Valley View Casino Center,1,1,10834,10834,1,792634,Speak Now World Tour
+Glendale,United States,Jobing.com Arena,1,1,27029,27029,1,1826025,Speak Now World Tour
+Glendale,United States,Jobing.com Arena,2,1,27029,27029,1,1826025,Speak Now World Tour
+San Antonio,United States,AT&T Center,1,1,13851,13851,1,901535,Speak Now World Tour
+Austin,United States,Frank Erwin Center,1,1,11999,11999,1,752078,Speak Now World Tour
+Lexington,United States,Rupp Arena,1,1,16237,16237,1,1041935,Speak Now World Tour
+Memphis,United States,FedExForum,1,1,12604,12604,1,820036,Speak Now World Tour
+Houston,United States,Minute Maid Park,1,1,42095,42095,1,3435756,Speak Now World Tour
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,1,1,11785,11785,1,749099,Speak Now World Tour
+Tampa,United States,St. Pete Times Forum,1,1,13695,13695,1,914300,Speak Now World Tour
+Miami,United States,American Airlines Arena,1,1,12153,12153,1,786904,Speak Now World Tour
+Charlotte,United States,Time Warner Cable Arena,1,1,14272,14272,1,920903,Speak Now World Tour
+Raleigh,United States,RBC Center,1,1,13567,13567,1,866056,Speak Now World Tour
+Columbia,United States,Colonial Life Arena,1,1,12807,12807,1,828231,Speak Now World Tour
+New York,United States,Madison Square Garden,1,1,26652,26652,1,1988411,Speak Now World Tour
+New York,United States,Madison Square Garden,2,1,26652,26652,1,1988411,Speak Now World Tour
+Perth,Australia,Burswood Dome,1,1,15142,15142,1,1878530,Speak Now World Tour
+Adelaide,Australia,Adelaide Entertainment Centre,1,1,8589,8589,1,1075370,Speak Now World Tour
+Brisbane,Australia,Brisbane Entertainment Centre,1,1,19870,19870,1,2416030,Speak Now World Tour
+Brisbane,Australia,Brisbane Entertainment Centre,2,1,19870,19870,1,2416030,Speak Now World Tour
+Sydney,Australia,Allphones Arena,1,1,27900,27900,1,3420360,Speak Now World Tour
+Sydney,Australia,Allphones Arena,2,1,27900,27900,1,3420360,Speak Now World Tour
+Melbourne,Australia,Rod Laver Arena,1,1,33793,33793,1,4151650,Speak Now World Tour
+Melbourne,Australia,Rod Laver Arena,2,1,33793,33793,1,4151650,Speak Now World Tour
+Melbourne,Australia,Rod Laver Arena,3,1,33793,33793,1,4151650,Speak Now World Tour
+Auckland,New Zealand,Vector Arena,1,1,32585,32585,1,2888560,Speak Now World Tour
+Auckland,New Zealand,Vector Arena,2,1,32585,32585,1,2888560,Speak Now World Tour
+Auckland,New Zealand,Vector Arena,3,1,32585,32585,1,2888560,Speak Now World Tour
+Omaha,United States,CenturyLink Center Omaha,1,2,27877,27877,1,2243164,The Red Tour
+Omaha,United States,CenturyLink Center Omaha,2,2,27877,27877,1,2243164,The Red Tour
+St. Louis,United States,Scottrade Center,1,2,28582,28582,1,2346203,The Red Tour
+St. Louis,United States,Scottrade Center,2,2,28582,28582,1,2346203,The Red Tour
+Charlotte,United States,Time Warner Cable Arena,1,2,14686,14686,1,1162733,The Red Tour
+Columbia,United States,Colonial Life Arena,1,2,12490,12490,1,996114,The Red Tour
+Newark,United States,Prudential Center,1,2,38065,38065,1,3565317,The Red Tour
+Newark,United States,Prudential Center,2,2,38065,38065,1,3565317,The Red Tour
+Newark,United States,Prudential Center,3,2,38065,38065,1,3565317,The Red Tour
+Miami,United States,American Airlines Arena,1,2,12808,12808,1,1010175,The Red Tour
+Orlando,United States,Amway Center,1,2,25617,25617,1,2054128,The Red Tour
+Orlando,United States,Amway Center,2,2,25617,25617,1,2054128,The Red Tour
+Atlanta,United States,Philips Arena,1,2,25471,25471,1,2048023,The Red Tour
+Atlanta,United States,Philips Arena,2,2,25471,25471,1,2048023,The Red Tour
+Tampa,United States,Tampa Bay Times Forum,1,2,14080,14080,1,1132095,The Red Tour
+Cleveland,United States,Quicken Loans Arena,1,2,15336,15336,1,1247605,The Red Tour
+Indianapolis,United States,Bankers Life Fieldhouse,1,2,13573,13573,1,1082042,The Red Tour
+Lexington,United States,Rupp Arena,1,2,17003,17003,1,1342699,The Red Tour
+Detroit,United States,Ford Field,1,3,48265,48265,1,3969059,The Red Tour
+Louisville,United States,KFC Yum! Center,1,2,15135,15135,1,1246491,The Red Tour
+Columbus,United States,Nationwide Arena,1,2,14267,14267,1,1155170,The Red Tour
+Washington,United States,Verizon Center,1,2,27619,27619,1,2489205,The Red Tour
+Washington,United States,Verizon Center,2,2,27619,27619,1,2489205,The Red Tour
+Houston,United States,Toyota Center,1,2,12467,12467,1,961422,The Red Tour
+Austin,United States,Frank Erwin Center,1,2,11916,11916,1,935631,The Red Tour
+San Antonio,United States,AT&T Center,1,2,13974,13974,1,1105253,The Red Tour
+Arlington,United States,Cowboys Stadium,1,3,53020,53020,1,4589266,The Red Tour
+Glendale,United States,Jobing.com Arena,1,2,26705,26705,1,2239370,The Red Tour
+Glendale,United States,Jobing.com Arena,2,2,26705,26705,1,2239370,The Red Tour
+Salt Lake City,United States,EnergySolutions Arena,1,2,14007,14007,1,1139360,The Red Tour
+Denver,United States,Pepsi Center,1,2,13489,13489,1,1076069,The Red Tour
+Toronto,Canada,Rogers Centre,1,3,87627,87627,1,7863310,The Red Tour
+Toronto,Canada,Rogers Centre,2,3,87627,87627,1,7863310,The Red Tour
+Winnipeg,Canada,Investors Group Field,1,3,33061,33061,1,3175430,The Red Tour
+Edmonton,Canada,Rexall Place,1,2,25663,25663,1,2379870,The Red Tour
+Edmonton,Canada,Rexall Place,2,2,25663,25663,1,2379870,The Red Tour
+Vancouver,Canada,BC Place Stadium,1,3,41142,41142,1,3974410,The Red Tour
+Pittsburgh,United States,Heinz Field,1,3,56047,56047,1,4718518,The Red Tour
+East Rutherford,United States,MetLife Stadium,1,3,52399,52399,1,4670011,The Red Tour
+Philadelphia,United States,Lincoln Financial Field,1,3,101277,101277,1,8822335,The Red Tour
+Philadelphia,United States,Lincoln Financial Field,2,3,101277,101277,1,8822335,The Red Tour
+Foxborough,United States,Gillette Stadium,1,3,110712,110712,1,9464063,The Red Tour
+Foxborough,United States,Gillette Stadium,2,3,110712,110712,1,9464063,The Red Tour
+Des Moines,United States,Wells Fargo Arena,1,2,13368,13368,1,1075576,The Red Tour
+Kansas City,United States,Sprint Center,1,2,26412,26412,1,2093172,The Red Tour
+Kansas City,United States,Sprint Center,2,2,26412,26412,1,2093172,The Red Tour
+Wichita,United States,Intrust Bank Arena,1,2,12231,12231,1,983882,The Red Tour
+Tulsa,United States,BOK Center,1,2,10949,10949,1,868955,The Red Tour
+Chicago,United States,Soldier Field,1,3,50809,50809,1,4149148,The Red Tour
+San Diego,United States,Valley View Casino Center,1,2,10872,10872,1,948541,The Red Tour
+Los Angeles,United States,Staples Center,1,2,55829,55829,1,4734463,The Red Tour
+Los Angeles,United States,Staples Center,2,2,55829,55829,1,4734463,The Red Tour
+Los Angeles,United States,Staples Center,3,2,55829,55829,1,4734463,The Red Tour
+Los Angeles,United States,Staples Center,4,2,55829,55829,1,4734463,The Red Tour
+Sacramento,United States,Sleep Train Arena,1,2,12795,12795,1,1138103,The Red Tour
+Portland,United States,Moda Center,1,2,13952,13952,1,1084760,The Red Tour
+Tacoma,United States,Tacoma Dome,1,2,20348,20348,1,1584049,The Red Tour
+Fargo,United States,Fargodome,1,2,21073,21073,1,1661578,The Red Tour
+Saint Paul,United States,Xcel Energy Center,1,2,28920,28920,1,2320937,The Red Tour
+Saint Paul,United States,Xcel Energy Center,2,2,28920,28920,1,2320937,The Red Tour
+Greensboro,United States,Greensboro Coliseum,1,2,13650,13650,1,1109253,The Red Tour
+Raleigh,United States,PNC Arena,1,2,13941,13941,1,1088612,The Red Tour
+Charlottesville,United States,John Paul Jones Arena,1,2,12689,12689,1,997216,The Red Tour
+Nashville,United States,Bridgestone Arena,1,2,41292,41292,1,3336545,The Red Tour
+Nashville,United States,Bridgestone Arena,2,2,41292,41292,1,3336545,The Red Tour
+Nashville,United States,Bridgestone Arena,3,2,41292,41292,1,3336545,The Red Tour
+Auckland,New Zealand,Vector Arena,1,1,30799,30799,1,3100290,The Red Tour
+Auckland,New Zealand,Vector Arena,2,1,30799,30799,1,3100290,The Red Tour
+Auckland,New Zealand,Vector Arena,3,1,30799,30799,1,3100290,The Red Tour
+Sydney,Australia,Allianz Stadium,1,2,40930,40930,1,4096060,The Red Tour
+Brisbane,Australia,Suncorp Stadium,1,2,38907,38907,1,3895810,The Red Tour
+Perth,Australia,Perth Rectangular Stadium,1,2,21827,21827,1,2364080,The Red Tour
+Melbourne,Australia,Etihad Stadium,1,2,47257,47257,1,4547250,The Red Tour
+London,England,The O2 Arena,1,1,74740,74740,1,5829240,The Red Tour
+London,England,The O2 Arena,2,1,74740,74740,1,5829240,The Red Tour
+London,England,The O2 Arena,3,1,74740,74740,1,5829240,The Red Tour
+Berlin,Germany,O2 World,1,1,10350,10350,1,755006,The Red Tour
+London,England,The O2 Arena,1,1,,,,,The Red Tour
+London,England,The O2 Arena,2,1,,,,,The Red Tour
+Shanghai,China,Mercedes-Benz Arena,1,,12793,12793,1,1864934,The Red Tour
+Saitama,Japan,Saitama Super Arena,1,1,20046,20046,1,1837147,The Red Tour
+Jakarta,Indonesia,MEIS Ancol,1,1,8130,8130,1,1481473,The Red Tour
+Pasay,Philippines,Mall of Asia Arena,1,1,9775,9775,1,1511662,The Red Tour
+Singapore,Singapore,Singapore Indoor Stadium,1,1,16344,16344,1,2524080,The Red Tour
+Kuala Lumpur,Malaysia,Putra Indoor Stadium,1,1,7525,7525,1,998608,The Red Tour
+Singapore,Singapore,Singapore Indoor Stadium,1,1,,,,,The Red Tour
+Tokyo,Japan,Tokyo Dome,1,,100320,100320,1,10586828,The 1989 World Tour
+Tokyo,Japan,Tokyo Dome,2,,100320,100320,1,10586828,The 1989 World Tour
+Winchester,United States,City of Rock,1,,,,,,The 1989 World Tour
+Bossier City,United States,CenturyLink Center,1,1,12459,12459,1,1458197,The 1989 World Tour
+Baton Rouge,United States,LSU Tiger Stadium,1,2,50227,50227,1,4119670,The 1989 World Tour
+Detroit,United States,Ford Field,1,2,50703,50703,1,5999690,The 1989 World Tour
+Louisville,United States,KFC Yum! Center,1,1,16242,16242,1,1863281,The 1989 World Tour
+Cleveland,United States,Quicken Loans Arena,1,1,15503,15503,1,1732041,The 1989 World Tour
+Pittsburgh,United States,Heinz Field,1,2,54801,54801,1,5836926,The 1989 World Tour
+Charlotte,United States,Time Warner Cable Arena,1,1,15024,15024,1,1627798,The 1989 World Tour
+Raleigh,United States,PNC Arena,1,1,13886,13886,1,1653762,The 1989 World Tour
+Philadelphia,United States,Lincoln Financial Field,1,2,101052,101052,1,11987816,The 1989 World Tour
+Philadelphia,United States,Lincoln Financial Field,2,2,101052,101052,1,11987816,The 1989 World Tour
+Cologne,Germany,Lanxess Arena,1,1,29020,29020,1,2054690,The 1989 World Tour
+Cologne,Germany,Lanxess Arena,2,1,29020,29020,1,2054690,The 1989 World Tour
+Amsterdam,Netherlands,Ziggo Dome,1,1,11166,11166,1,800829,The 1989 World Tour
+Glasgow,Scotland,SSE Hydro,1,1,11021,11021,1,1119300,The 1989 World Tour
+Manchester,England,Manchester Arena,1,1,14773,14773,1,1478760,The 1989 World Tour
+London,England,Hyde Park,1,,,,,,The 1989 World Tour
+Dublin,Ireland,3Arena,1,1,25188,25188,1,1975510,The 1989 World Tour
+Dublin,Ireland,3Arena,2,1,25188,25188,1,1975510,The 1989 World Tour
+Ottawa,Canada,Canadian Tire Centre,1,1,13480,13480,1,1325480,The 1989 World Tour
+Montreal,Canada,Bell Centre,1,1,14770,14770,1,1499040,The 1989 World Tour
+East Rutherford,United States,MetLife Stadium,1,3,110105,110105,1,13423858,The 1989 World Tour
+East Rutherford,United States,MetLife Stadium,2,3,110105,110105,1,13423858,The 1989 World Tour
+Washington,United States,Nationals Park,1,3,85014,85014,1,9730596,The 1989 World Tour
+Washington,United States,Nationals Park,2,3,85014,85014,1,9730596,The 1989 World Tour
+Chicago,United States,Soldier Field,1,3,110109,110109,1,11469887,The 1989 World Tour
+Chicago,United States,Soldier Field,2,3,110109,110109,1,11469887,The 1989 World Tour
+Foxborough,United States,Gillette Stadium,1,3,116849,116849,1,12533166,The 1989 World Tour
+Foxborough,United States,Gillette Stadium,2,3,116849,116849,1,12533166,The 1989 World Tour
+Vancouver,Canada,BC Place,1,2,41463,41463,1,4081820,The 1989 World Tour
+Edmonton,Canada,Rexall Place,1,1,26534,26534,1,2387080,The 1989 World Tour
+Edmonton,Canada,Rexall Place,2,1,26534,26534,1,2387080,The 1989 World Tour
+Seattle,United States,CenturyLink Field,1,2,55711,55711,1,6050643,The 1989 World Tour
+Santa Clara,United States,Levi's Stadium,1,2,102139,102139,1,13031146,The 1989 World Tour
+Santa Clara,United States,Levi's Stadium,2,2,102139,102139,1,13031146,The 1989 World Tour
+Glendale,United States,Gila River Arena,1,1,26520,26520,1,3029628,The 1989 World Tour
+Glendale,United States,Gila River Arena,2,1,26520,26520,1,3029628,The 1989 World Tour
+Los Angeles,United States,Staples Center,1,2,70563,70563,1,8961681,The 1989 World Tour
+Los Angeles,United States,Staples Center,2,2,70563,70563,1,8961681,The 1989 World Tour
+Los Angeles,United States,Staples Center,3,2,70563,70563,1,8961681,The 1989 World Tour
+Los Angeles,United States,Staples Center,4,2,70563,70563,1,8961681,The 1989 World Tour
+Los Angeles,United States,Staples Center,5,2,70563,70563,1,8961681,The 1989 World Tour
+San Diego,United States,Petco Park,1,2,44710,44710,1,5475237,The 1989 World Tour
+Salt Lake City,United States,EnergySolutions Arena,1,1,14131,14131,1,1589686,The 1989 World Tour
+Denver,United States,Pepsi Center,1,1,27126,27126,1,2868991,The 1989 World Tour
+Denver,United States,Pepsi Center,2,1,27126,27126,1,2868991,The 1989 World Tour
+Houston,United States,Minute Maid Park,1,2,40122,40122,1,5202196,The 1989 World Tour
+Saint Paul,United States,Xcel Energy Center,1,1,45126,45126,1,5514863,The 1989 World Tour
+Saint Paul,United States,Xcel Energy Center,2,1,45126,45126,1,5514863,The 1989 World Tour
+Saint Paul,United States,Xcel Energy Center,3,1,45126,45126,1,5514863,The 1989 World Tour
+Indianapolis,United States,Bankers Life Fieldhouse,1,1,14010,14010,1,1550268,The 1989 World Tour
+Columbus,United States,Nationwide Arena,1,1,29936,29936,1,3369693,The 1989 World Tour
+Columbus,United States,Nationwide Arena,2,1,29936,29936,1,3369693,The 1989 World Tour
+Kansas City,United States,Sprint Center,1,1,27857,27857,1,2967558,The 1989 World Tour
+Kansas City,United States,Sprint Center,2,1,27857,27857,1,2967558,The 1989 World Tour
+Nashville,United States,Bridgestone Arena,1,2,28917,28917,1,3354844,The 1989 World Tour
+Nashville,United States,Bridgestone Arena,2,2,28917,28917,1,3354844,The 1989 World Tour
+St. Louis,United States,Scottrade Center,1,2,29688,29688,1,3452940,The 1989 World Tour
+St. Louis,United States,Scottrade Center,2,2,29688,29688,1,3452940,The 1989 World Tour
+Toronto,Canada,Rogers Centre,1,2,99283,99283,1,8670990,The 1989 World Tour
+Toronto,Canada,Rogers Centre,2,2,99283,99283,1,8670990,The 1989 World Tour
+Des Moines,United States,Wells Fargo Arena,1,1,13969,13969,1,1566321,The 1989 World Tour
+Omaha,United States,CenturyLink Center Omaha,1,1,29622,29622,1,3121421,The 1989 World Tour
+Omaha,United States,CenturyLink Center Omaha,2,1,29622,29622,1,3121421,The 1989 World Tour
+Fargo,United States,Fargodome,1,1,21067,21067,1,2219188,The 1989 World Tour
+Arlington,United States,AT&T Stadium,1,2,62630,62630,1,7396733,The 1989 World Tour
+Lexington,United States,Rupp Arena,1,1,17084,17084,1,1870471,The 1989 World Tour
+Greensboro,United States,Greensboro Coliseum,1,1,15079,15079,1,1662171,The 1989 World Tour
+Atlanta,United States,Georgia Dome,1,2,56046,56046,1,6034846,The 1989 World Tour
+Miami,United States,American Airlines Arena,1,1,14044,14044,1,1527919,The 1989 World Tour
+Tampa,United States,Raymond James Stadium,1,2,56987,56987,1,6202515,The 1989 World Tour
+Singapore,Singapore,Singapore Indoor Stadium,1,,17726,17726,1,3217569,The 1989 World Tour
+Singapore,Singapore,Singapore Indoor Stadium,2000,,17726,17726,1,3217569,The 1989 World Tour
+Shanghai,China,Mercedes-Benz Arena,1,,37758,37758,1,5917348,The 1989 World Tour
+Shanghai,China,Mercedes-Benz Arena,2,,37758,37758,1,5917348,The 1989 World Tour
+Shanghai,China,Mercedes-Benz Arena,3,,37758,37758,1,5917348,The 1989 World Tour
+Sydney,Australia,ANZ Stadium,1,1,75980,75980,1,6571683,The 1989 World Tour
+Brisbane,Australia,Suncorp Stadium,1,1,46881,46881,1,4759471,The 1989 World Tour
+Adelaide,Australia,Adelaide Entertainment Centre,1,1,20090,20090,1,2407499,The 1989 World Tour
+Adelaide,Australia,Adelaide Entertainment Centre,2,1,20090,20090,1,2407499,The 1989 World Tour
+Melbourne,Australia,AAMI Park,1,1,98136,98136,1,10421553,The 1989 World Tour
+Melbourne,Australia,AAMI Park,2,1,98136,98136,1,10421553,The 1989 World Tour
+Melbourne,Australia,AAMI Park,3,1,98136,98136,1,10421553,The 1989 World Tour
+Glendale,United States,University of Phoenix Stadium,1,2,59157,59157,1,7214478,Reputation Stadium Tour
+Santa Clara,United States,Levi's Stadium,1,2,107550,107550,1,14006963,Reputation Stadium Tour
+Santa Clara,United States,Levi's Stadium,2,2,107550,107550,1,14006963,Reputation Stadium Tour
+Pasadena,United States,Rose Bowl,1,2,118084,118084,1,16251980,Reputation Stadium Tour
+Pasadena,United States,Rose Bowl,2,2,118084,118084,1,16251980,Reputation Stadium Tour
+Seattle,United States,CenturyLink Field,1,2,56021,56021,1,8672219,Reputation Stadium Tour
+Denver,United States,Sports Authority Field at Mile High,1,2,57140,57140,1,7926366,Reputation Stadium Tour
+Chicago,United States,Soldier Field,1,2,105208,105208,1,14576697,Reputation Stadium Tour
+Chicago,United States,Soldier Field,2,2,105208,105208,1,14576697,Reputation Stadium Tour
+Manchester,England,Etihad Stadium,1,2,77258,77258,1,6169724,Reputation Stadium Tour
+Manchester,England,Etihad Stadium,2,2,77258,77258,1,6169724,Reputation Stadium Tour
+Dublin,Ireland,Croke Park,1,2,133034,133034,1,8567769,Reputation Stadium Tour
+Dublin,Ireland,Croke Park,2,2,133034,133034,1,8567769,Reputation Stadium Tour
+London,England,Wembley Stadium,1,2,143427,143427,1,12214933,Reputation Stadium Tour
+London,England,Wembley Stadium,2,2,143427,143427,1,12214933,Reputation Stadium Tour
+Louisville,United States,Cardinal Stadium,1,2,52138,52138,1,4928219,Reputation Stadium Tour
+Columbus,United States,Ohio Stadium,1,2,62897,62897,1,6606529,Reputation Stadium Tour
+Landover,United States,FedExField,1,2,95672,95672,1,11396004,Reputation Stadium Tour
+Landover,United States,FedExField,2,2,95672,95672,1,11396004,Reputation Stadium Tour
+Philadelphia,United States,Lincoln Financial Field,1,2,107378,107378,1,11951047,Reputation Stadium Tour
+Philadelphia,United States,Lincoln Financial Field,2,2,107378,107378,1,11951047,Reputation Stadium Tour
+Cleveland,United States,FirstEnergy Stadium,1,2,51323,51323,1,5148757,Reputation Stadium Tour
+East Rutherford,United States,MetLife Stadium,1,2,165654,165654,1,22031386,Reputation Stadium Tour
+East Rutherford,United States,MetLife Stadium,2,2,165654,165654,1,22031386,Reputation Stadium Tour
+East Rutherford,United States,MetLife Stadium,3,2,165654,165654,1,22031386,Reputation Stadium Tour
+Foxborough,United States,Gillette Stadium,1,2,174764,174764,1,21779846,Reputation Stadium Tour
+Foxborough,United States,Gillette Stadium,2,2,174764,174764,1,21779846,Reputation Stadium Tour
+Foxborough,United States,Gillette Stadium,3,2,174764,174764,1,21779846,Reputation Stadium Tour
+Toronto,Canada,Rogers Centre,1,2,100310,100310,1,11177000,Reputation Stadium Tour
+Toronto,Canada,Rogers Centre,2,2,100310,100310,1,11177000,Reputation Stadium Tour
+Pittsburgh,United States,Heinz Field,1,2,56445,56445,1,6230876,Reputation Stadium Tour
+Atlanta,United States,Mercedes-Benz Stadium,1,2,116746,116746,1,18089415,Reputation Stadium Tour
+Atlanta,United States,Mercedes-Benz Stadium,2,2,116746,116746,1,18089415,Reputation Stadium Tour
+Tampa,United States,Raymond James Stadium,1,2,55909,55909,1,7244264,Reputation Stadium Tour
+Miami Gardens,United States,Hard Rock Stadium,1,2,47818,47818,1,7072164,Reputation Stadium Tour
+Nashville,United States,Nissan Stadium,1,2,56112,56112,1,9007179,Reputation Stadium Tour
+Detroit,United States,Ford Field,1,2,49464,49464,1,6597852,Reputation Stadium Tour
+Minneapolis,United States,U.S. Bank Stadium,1,2,98774,98774,1,10242024,Reputation Stadium Tour
+Minneapolis,United States,U.S. Bank Stadium,2,2,98774,98774,1,10242024,Reputation Stadium Tour
+Kansas City,United States,Arrowhead Stadium,1,2,58611,58611,1,6730138,Reputation Stadium Tour
+Indianapolis,United States,Lucas Oil Stadium,1,2,55729,55729,1,6531245,Reputation Stadium Tour
+St. Louis,United States,The Dome at America's Center,1,2,47831,47831,1,4884054,Reputation Stadium Tour
+New Orleans,United States,Mercedes-Benz Superdome,1,2,53172,53172,1,6491546,Reputation Stadium Tour
+Houston,United States,NRG Stadium,1,2,53800,53800,1,9350275,Reputation Stadium Tour
+Arlington,United States,AT&T Stadium,1,2,105002,105002,1,15006157,Reputation Stadium Tour
+Arlington,United States,AT&T Stadium,2,2,105002,105002,1,15006157,Reputation Stadium Tour
+Perth,Australia,Optus Stadium,1,2,50891,50891,1,4153658,Reputation Stadium Tour
+Melbourne,Australia,Marvel Stadium,1,2,63027,63027,1,6755570,Reputation Stadium Tour
+Sydney,Australia,ANZ Stadium,1,2,72805,72805,1,7686564,Reputation Stadium Tour
+Brisbane,Australia,The Gabba,1,2,43907,43907,1,4338127,Reputation Stadium Tour
+Auckland,New Zealand,Mount Smart Stadium,1,2,35749,35749,1,3617593,Reputation Stadium Tour
+Tokyo,Japan,Tokyo Dome,1,1,100109,100109,1,14859847,Reputation Stadium Tour
+Tokyo,Japan,Tokyo Dome,2,1,100109,100109,1,14859847,Reputation Stadium Tour
+Nampa,United States,Ford Arena,1,2,8970,8970,1,413622,Fearless Tour
+East Rutherford,United States,MetLife Stadium,2,2,165654,165654,1,22031386,Reputation Stadium Tour
