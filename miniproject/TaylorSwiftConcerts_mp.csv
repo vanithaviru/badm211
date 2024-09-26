@@ -1,4 +1,4 @@
-City,Country,Venue,Night,NumOpeningActs,OpeningAct1,OpeningAct2,OpeningAct3,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
+City,Country,Venue,CityNight,NumOpeningActs,OpeningAct1,OpeningAct2,OpeningAct3,TicketsSold,TicketsAvailable,SoldOut,Revenue,Tour
 Evansville,United States,Roberts Municipal Stadium,1,2,Gloriana,Kellie Pickler,,7463,7463,1,360617,Fearless Tour
 Jonesboro,United States,Convocation Center,1,2,Gloriana,Kellie Pickler,,7822,7822,1,340328,Fearless Tour
 St. Louis,United States,Scottrade Center,1,2,Gloriana,Kellie Pickler,,13764,13764,1,650420,Fearless Tour
@@ -6,8 +6,8 @@ Alexandria,United States,Bishop Ireton High School,1,2,Gloriana,Kellie Pickler,,
 North Charleston,United States,North Charleston Coliseum,1,2,Gloriana,Kellie Pickler,,8751,8751,1,398154,Fearless Tour
 Jacksonville,United States,Jacksonville Veterans Memorial Arena,1,2,Gloriana,Kellie Pickler,,11072,11072,1,507012,Fearless Tour
 Biloxi,United States,Mississippi Coast Coliseum,1,2,Gloriana,Kellie Pickler,,9436,9436,1,437313,Fearless Tour
-London,England,Shepherd's Bush Empire,1,0,,,,6789,6789,1,401328,Fearless Tour
-London,England,Shepherd's Bush Empire,2,0,,,,6789,6789,1,401328,Fearless Tour
+London,England,Shepherd's Bush Empire,1,,,,,6789,6789,1,401328,Fearless Tour
+London,England,Shepherd's Bush Empire,2,,,,,6789,6789,1,401328,Fearless Tour
 Spokane,United States,Spokane Arena,1,2,Gloriana,Kellie Pickler,,10798,10798,1,482146,Fearless Tour
 Seattle,United States,KeyArena,1,2,Gloriana,Kellie Pickler,,12061,12061,1,528637,Fearless Tour
 Portland,United States,Rose Garden Arena,1,2,Gloriana,Kellie Pickler,,13226,13226,1,613284,Fearless Tour
@@ -17,10 +17,10 @@ Los Angeles,United States,Staples Center,1,2,Gloriana,Kellie Pickler,,13648,1364
 Paradise,United States,Mandalay Bay Events Center,1,2,Gloriana,Kellie Pickler,,8311,8311,1,551051,Fearless Tour
 San Diego,United States,Valley View Casino Center,1,2,Gloriana,Kellie Pickler,,10174,10174,1,502689,Fearless Tour
 Salt Lake City,United States,EnergySolutions Arena,1,2,Gloriana,Kellie Pickler,,13042,13042,1,555207,Fearless Tour
-New Brockton,United States,BamaJam Farms,1,0,,,,,,,,Fearless Tour
+New Brockton,United States,BamaJam Farms,1,,,,,,,,,Fearless Tour
 Columbia,United States,Merriweather Post Pavilion,1,2,Gloriana,Kellie Pickler,,17619,17619,1,608438,Fearless Tour
 Greensboro,United States,Greensboro Coliseum,1,2,Gloriana,Kellie Pickler,,14641,14641,1,690959,Fearless Tour
-Oshkosh,United States,Ford Festival Park,1,0,,,,,,,,Fearless Tour
+Oshkosh,United States,Ford Festival Park,1,,,,,,,,,Fearless Tour
 Cadott,United States,Amphitheatre Concert Grounds,1,,,,,,,,,Fearless Tour
 Calgary,Canada,Pengrowth Saddledome,1,2,Gloriana,Kellie Pickler,,,,,,Fearless Tour
 Edmonton,Canada,Commonwealth Stadium,1,,,,,33910,44500,0,2540906,Fearless Tour
@@ -306,7 +306,7 @@ London,England,The O2 Arena,3,1,The Vamps,,,74740,74740,1,5829240,The Red Tour
 Berlin,Germany,O2 World,1,1,Andreas Bourani,,,10350,10350,1,755006,The Red Tour
 London,England,The O2 Arena,1,1,The Vamps,,,,,,,The Red Tour
 London,England,The O2 Arena,2,1,The Vamps,,,,,,,The Red Tour
-Shanghai,China,Mercedes-Benz Arena,1,0,N/A,,,12793,12793,1,1864934,The Red Tour
+Shanghai,China,Mercedes-Benz Arena,1,,,,,12793,12793,1,1864934,The Red Tour
 Saitama,Japan,Saitama Super Arena,1,1,CTS,,,20046,20046,1,1837147,The Red Tour
 Jakarta,Indonesia,MEIS Ancol,1,1,Nicole Zefanya,,,8130,8130,1,1481473,The Red Tour
 Pasay,Philippines,Mall of Asia Arena,1,1,Meg Bucsit,,,9775,9775,1,1511662,The Red Tour
@@ -386,11 +386,11 @@ Greensboro,United States,Greensboro Coliseum,1,1,Vance Joy,,,15079,15079,1,16621
 Atlanta,United States,Georgia Dome,1,2,Vance Joy,Shawn Mendes,,56046,56046,1,6034846,The 1989 World Tour
 Miami,United States,American Airlines Arena,1,1,Vance Joy,,,14044,14044,1,1527919,The 1989 World Tour
 Tampa,United States,Raymond James Stadium,1,2,Vance Joy,Shawn Mendes,,56987,56987,1,6202515,The 1989 World Tour
-Singapore,Singapore,Singapore Indoor Stadium,1,0,,,,17726,17726,1,3217569,The 1989 World Tour
-Singapore,Singapore,Singapore Indoor Stadium,2,0,,,,17726,17726,1,3217569,The 1989 World Tour
-Shanghai,China,Mercedes-Benz Arena,1,0,,,,37758,37758,1,5917348,The 1989 World Tour
-Shanghai,China,Mercedes-Benz Arena,2,0,,,,37758,37758,1,5917348,The 1989 World Tour
-Shanghai,China,Mercedes-Benz Arena,3,0,,,,37758,37758,1,5917348,The 1989 World Tour
+Singapore,Singapore,Singapore Indoor Stadium,1,,,,,17726,17726,1,3217569,The 1989 World Tour
+Singapore,Singapore,Singapore Indoor Stadium,2,,,,,17726,17726,1,3217569,The 1989 World Tour
+Shanghai,China,Mercedes-Benz Arena,1,,,,,37758,37758,1,5917348,The 1989 World Tour
+Shanghai,China,Mercedes-Benz Arena,2,,,,,37758,37758,1,5917348,The 1989 World Tour
+Shanghai,China,Mercedes-Benz Arena,3,,,,,37758,37758,1,5917348,The 1989 World Tour
 Sydney,Australia,ANZ Stadium,1,1,Vance Joy,,,75980,75980,1,6571683,The 1989 World Tour
 Brisbane,Australia,Suncorp Stadium,1,1,Vance Joy,,,46881,46881,1,4759471,The 1989 World Tour
 Adelaide,Australia,Adelaide Entertainment Centre,1,1,Vance Joy,,,20090,20090,1,2407499,The 1989 World Tour
